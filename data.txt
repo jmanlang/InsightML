@@ -1,0 +1,903 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10
+2	906 m^3	0.9669	sANTA cLARITA	Fremont, Santa Ana	fabrice	0.5996	220	-49	951 N	LISE	1038
+5	477 m^3	0.3338	San Francisco	San Francisco	Sam	0.152	237	581	450 N	Eriq	337
+0	861 m^3	0.6165	San Diego	Fresno, Stockton	Eriq	0.6312	632	36	910 N	Andrew	-50
+0	1100 m^3	0.4111	Sacramento	Stockton, Fresno	Michael	0.4227	386	304	547 N	Vani	225
+2	925 m^3	0.7413	Santa Ana	Santa Ana	Fabrice	0.6331	519	-158	1005 N	Lise	952
+5	773 m^3	0.2418	Oakland	San Francisco	Sam	0.2968	196	855	420 N	Eriq	524
+1	176 m^3	-0.2072	Bakersfield	Anaheim	Andrew	0.6581	1242	402	520 N	Fabrice	243
+5	609 m^3	0.3776	Riverside	San Francisco	?	0.5228	262	994	514 N	Eriq	784
+3	541 m^3	0.3095	Fremont	Oakland, Long Beach, San Bernardino	Vani	0.8323	947	365	614 N	Chris	229
+0	966 m^3	0.5003	Stockton	San Jose	Michael	0.2401	170	126	690 N	Andrew	140
+0	934 m^3	0.4863	Anaheim	STOCKTON, SAN JOSE	Eriq	0.7536	239	174	664 N	Vani	-1
+3	740 m^3	0.227	Irvine	Moreno Valley	Vani	0.9617	889	486	429 N	Chris	-62
+1	184 m^3	0.1045	Chula Vista	San Diego, Santa Clarita, Bakersfield, Anaheim	Inan	0.4875	999	627	227 N	Inan	478
+1	75 m^3	-0.1681	Bakersfield	San Francisco	Inan	0.7029	725	696	356 N	Inan	400
+2	1003 m^3	0.8571	Santa Clarita	Fremont	Reilly	0.6513	238	214	681 N	Lise	887
+4	295 m^3	0.8118	Fresno	Riverside	?	0.3552	459	812	494 N	Tony	819
+3	579 m^3	0.595	Fremont	Moreno Valley, Oakland, Long Beach	Vani	0.9094	867	430	565 N	Chris	376
+4	303 m^3	0.6702	Los Angeles	Riverside	Chris	0.0015	572	658	232 N	Tony	997
+1	-82 m^3	0.0936	Chula Vista	Anaheim, Modesto	Inan	0.6798	984	486	39 N	Inan	333
+0	1039 m^3	0.6766	San Diego	San Jose	Michael	0.6799	528	268	713 N	Vani	225
+4	189 m^3	0.7453	San Jose	Los Angeles	Lise	0.293	455	764	304 N	Tony	949
+2	842 m^3	0.9322	Santa Ana	Irvine, Sacramento, Santa Ana	Reilly	0.6621	295	180	912 N	Michael	889
+5	314 m^3	0.1964	Oakland	San Francisco	Sam	0.471	26	820	467 N	Eriq	625
+2	799 m^3	0.7968	Santa Clarita	Santa Ana	Fabrice	0.5471	391	-336	781 N	Lise	894
+4	326 m^3	0.5952	Fresno	Riverside	Chris	0.0832	614	1120	245 N	Tony	987
+3	432 m^3	0.4014	Irvine	Oakland, San Bernardino, Chula Vista	Vani	0.774	780	337	574 N	Chris	70
+3	801 m^3	0.4016	Irvine	Stockton, San Jose	Vani	0.8622	786	489	628 N	Chris	157
+0	1069 m^3	0.7037	Stockton	Stockton, Fresno	Eriq	0.7742	814	-41	807 N	Vani	293
+4	260 m^3	0.9095	San Bernardino	San Francisco	Tony	0.078	187	444	292 N	Michael	900
+5	526 m^3	0.7366	Oakland	San Francisco	Sam	0.3651	64	1214	214 N	Eriq	536
+3	886 m^3	0.3359	Irvine	Long Beach, Chula Vista, San Bernardino, Moreno Valley	Vani	1.0746	777	620	225 N	Chris	135
+5	519 m^3	0.5169	Irvine	San Francisco	Sam	0.3531	208	807	325 N	Eriq	514
+3	634 m^3	0.4204	Fremont	Oakland, Moreno Valley, Chula Vista	Vani	0.8987	463	140	527 N	Chris	-82
+2	810 m^3	0.7928	Fresno	Irvine	Reilly	0.6957	118	307	839 N	Lise	913
+3	629 m^3	0.2969	Irvine	Chula Vista, Oakland	Sam	0.7463	714	454	345 N	Chris	431
+2	757 m^3	0.7884	Los Angeles	Sacramento, Santa Ana	Reilly	0.5599	388	73	783 N	Lise	1084
+0	1043 m^3	0.6169	San Diego	Stockton	Michael	0.6601	677	-136	744 N	Vani	76
+4	55 m^3	0.6548	San Jose	Bakersfield, Anaheim, Santa Clarita, Modesto	Lise	0.2624	114	750	272 N	Tony	852
+1	-38 m^3	0.1824	Bakersfield	Anaheim, Bakersfield, San Diego, Santa Clarita	Andrew	0.9531	789	659	232 N	Inan	401
+2	753 m^3	1.0624	Santa Ana	Sacramento	Sam	0.6767	171	53	816 N	Lise	960
+4	488 m^3	0.8209	San Jose	Riverside	Lise	0.0881	827	771	365 N	Michael	739
+2	666 m^3	0.7659	Santa Ana	Sacramento	Fabrice	0.4165	221	404	1037 N	Lise	1034
+3	753 m^3	0.4633	Fremont	Long Beach, Moreno Valley	Vani	1.1581	611	405	479 N	Chris	208
+3	295 m^3	0.3606	Fremont	Chula Vista, Oakland, San Bernardino	Vani	0.7903	879	256	525 N	Chris	552
+0	1203 m^3	0.5472	Anaheim	Stockton, San Jose	Michael	0.5436	684	423	625 N	Vani	115
+3	471 m^3	0.1995	Fremont	Long Beach	Vani	0.7452	590	539	618 N	Lise	475
+0	835 m^3	0.3386	Anaheim	Stockton	Eriq	0.3375	641	242	854 N	Vani	-7
+5	555 m^3	0.43	Riverside	San Francisco	Sam	0.3918	111	1216	240 N	Eriq	641
+3	533 m^3	0.218	Irvine	Chula Vista, Oakland, Long Beach	Vani	0.7764	810	372	519 N	Chris	143
+1	-12 m^3	0.0073	San Diego	Bakersfield	Inan	0.9091	892	490	176 N	iNAN	374
+3	515 m^3	0.3251	Fremont	Los Angeles	Vani	0.708	1016	470	653 N	Chris	216
+0	997 m^3	0.6175	San Diego	Bakersfield	Eriq	0.609	494	164	748 N	Reilly	180
+1	-164 m^3	0.1215	Chula Vista	Modesto	Inan	0.8679	751	237	351 N	Sam	n/a
+0	987 m^3	0.6623	Anaheim	San Jose	Michael	0.7176	463	273	976 N	Andrew	-25
+1	41 m^3	-0.0048	Long Beach	Bakersfield, Modesto, Santa Clarita, San Diego	Andrew	0.7661	733	914	637 N	Sam	511
+2	1070 m^3	0.7937	Santa Clarita	Santa Ana	Reilly	0.552	124	119	911 N	Lise	864
+5	552 m^3	0.6248	San Francisco	San Francisco	Sam	0.2713	-28	918	274 N	Eriq	578
+1	84 m^3	-0.0368	Long Beach	Bakersfield, Anaheim, Santa Clarita, Modesto	Inan		1022	382	70 N	Sam	420
+3	670 m^3	0.1035	Irvine	San Bernardino	Vani	0.9416	937	269	n/a	Chris	241
+5		0.3198	Moreno Valley	San Francisco	Sam	0.4352	207	1021	547 N	Eriq	607
+4	293 m^3	0.6917	San Jose	Santa Ana, Sacramento	Chris	0.1865	716	872	279 N	Tony	944
+0	828 m^3	0.4595	Sacramento	San Jose, Stockton	Michael	0.6124	531	241	804 N	Fabrice	179
+4	377 m^3	0.674	San Jose	Los Angeles	Lise	-0.1309	402	838	97 N	Tony	790
+1	187 m^3	-0.1337	Bakersfield	Bakersfield	Andrew	0.7611	686	574	57 N	Inan	461
+2	714 m^3	1.0082	Modesto	Santa Ana	Reilly	0.3435	176		821 N	Lise	848
+2	940 m^3	0.8606	Santa Ana	Irvine, Santa Ana, Sacramento	Reilly	0.4893	284	89	719 N	Lise	991
+1	117 m^3	-0.082	Bakersfield	San Diego, Bakersfield, Santa Clarita, Modesto	Andrew	0.7295	1026	849	268 N	Sam	?
+1	-80 m^3	-0.0137	Bakersfield	Anaheim	Inan	0.86	1053	344	236 N	Sam	374
+5	670 m^3	0.2991	Moreno Valley	San Francisco	Sam	0.3834	-26	921	267 N	Eriq	561
+3	577 m^3	0.3636	Fremont	Moreno Valley, San Bernardino, Oakland, Long Beach	Vani	0.8511	775	411	255 N	Chris	-10
+4	181 m^3	0.8208	San Jose	Riverside	Chris	0.1358	535	766	164 N	Tony	676
+4	322 m^3	0.9336	Fresno	Riverside	Tony	-0.0038	336	846	-139 N	Tony	879
+0	1092 m^3	0.5128	Stockton	Stockton, Fresno	Eriq	0.4567	396	-79	881 N	Andrew	330
+1	-113 m^3	-0.0662	Chula Vista	San Francisco	Andrew	0.6842	786	671	259 N	Inan	471
+1	14 m^3	-0.0233	CHULA VISTA	San Diego	Sam	0.878	981	699	59 N	Sam	286
+2	807 m^3	0.6662	Santa Clarita	Irvine	Reilly	0.6523	307	-160	790 N	Lise	895
+4	222 m^3	0.9137	San Bernardino	Los Angeles	Lise	0.2645	289	722	-67 N	Tony	874
+5	504 m^3	0.3644	Riverside	Riverside	SAM	0.2415	-69	806	336 N	Eriq	662
+5	852 m^3	0.2288	San Diego	San Francisco	Sam	0.3929	21	896	241 N	Eriq	514
+5	647 m^3	0.3992	rIVERSIDE	San Francisco	Sam	0.2176	-181	965	343 N	Eriq	637
+1	-79 m^3	0.1981	Long Beach	Bakersfield, Modesto	Inan	0.7167	799	668	326 N	Sam	498
+1	-141 m^3	-0.117	Chula Vista	Santa Clarita, Anaheim, San Diego	Inan	0.8295	937	626	344 N	Inan	563
+3	531 m^3	0.2634	San Francisco	Oakland, Moreno Valley, Long Beach, San Bernardino	Vani	1.166	833	259	571 N	Chris	351
+4	212 m^3	0.6845	San Bernardino	Irvine	Tony	0.0956	752	656	224 N	Tony	743
+1	-3 m^3	0.1077	Chula Vista	Modesto, Santa Clarita, Bakersfield, Anaheim	Fabrice	0.7561	1012	450	243 N	Sam	464
+3	523 m^3	0.1024	Fremont	Moreno Valley, Chula Vista, San Bernardino	Vani	0.9164	836	629	531 N	Chris	308
+1	148 m^3	-0.1605	Chula Vista	San Diego, Modesto, Anaheim, Santa Clarita	Andrew	0.6912	849	373	181 N	Inan	217
+3	407 m^3	0.2997	Irvine	Chula Vista, Long Beach, Moreno Valley	Vani	0.8319	955	440	710 N	Chris	120
+4	421 m^3	0.9451	San Bernardino	Los Angeles	cHRIS	0.1621	620	768	174 N	Michael	974
+0	1063 m^3	0.3883	Anaheim	Stockton	Eriq	0.4319	376	167	733 N	Fabrice	141
+4	218 m^3	0.652	San Jose	Los Angeles	Lise	0.2807	799	855	66 N	Michael	765
+5	439 m^3	0.3955	Riverside	San Francisco	Sam	0.5215	90	968	616 N	Eriq	451
+0	1011 m^3	0.6613	Stockton	Stockton	Eriq	0.1154	602	-19	751 N	Reilly	171
+1	163 m^3	0.0751	Long Beach	Modesto, Santa Clarita, Bakersfield, Anaheim	Andrew	0.6541	968	783	401 N	Inan	411
+1	-197 m^3	0.0295	Bakersfield	Anaheim, Santa Clarita	Inan	0.6871	913	859	313 N	Inan	325
+2	757 m^3	1.0823	Santa Ana	Sacramento	Fabrice	0.4349	530	-78	878 N	Lise	942
+5	520 m^3	0.3539	Riverside	San Francisco	Sam	0.2995	-55	1005	372 N	Eriq	238
+5	410 m^3	0.8259	Bakersfield	San Francisco	Sam	0.3592	385	1054	392 N	Eriq	478
+0	1092 m^3	N/A	Anaheim	Fresno	Eriq	0.136	474	234	568 N	Reilly	-72
+4	-15 m^3	0.8266	Fresno	Los Angeles	Chris	-0.1661	640	912	132 N	Michael	785
+2	958 m^3	0.8494	Santa Ana	Fremont, Santa Ana	Reilly	0.6147	119	-54	856 N	Lise	864
+3	591 m^3	0.5116	Fremont	San Bernardino, Oakland, Chula Vista	Vani	1.0238	727	542	438 N	Chris	87
+3	751 m^3	0.1752	Fremont	Irvine, Santa Ana, Fremont	Vani	1.0579	645	NULL	312 N	Chris	43
+5	516 m^3	0.2702	Oakland	San Francisco	Fabrice	0.5415	98	980	548 N	Eriq	458
+5	336 m^3	0.3631	Riverside	San Francisco	sAM	0.1861	-76	712	389 N	Eriq	714
+5	345 m^3	0.4277	San Francisco	San Francisco	SAM	0.5124	345	813	472 N	Eriq	404
+1	-139 m^3	-0.0217	Chula Vista	Anaheim, Bakersfield, San Diego, Modesto	Vani	0.5964	874	628	324 N	Sam	465
+1	-269 m^3	0.073	Chula Vista	Bakersfield	Inan	0.7076	888	597	195 N	Sam	418
+1	-15 m^3	0.0235	Long Beach	Santa Clarita	Inan	0.7186	1214	424	270 N	Chris	507
+4	516 m^3	0.6227	Fresno	Los Angeles	Chris	0.0369	468	921	202 N	Tony	845
+3	709 m^3	0.1381	Irvine	Oakland, Moreno Valley	N/A	0.976	551	104	324 N	Chris	108
+2	922 m^3	0.8471	Santa Clarita	Fremont	Fabrice	0.5661	464	86	1046 N	Lise	865
+3	534 m^3	0.5841	Irvine	Chula Vista, Long Beach, Oakland	Vani	1.0213	959	362	665 N	Chris	303
+3	570 m^3	0.2768	Irvine	Chula Vista	Vani	1.3008	843	547	524 N	Chris	209
+0	795 m^3	0.645	San Diego	Fresno	eRIQ	0.5228	739	150	788 N	Reilly	146
+0	843 m^3	0.6623	Anaheim	San Jose, Stockton	Eriq	0.6049	631	273	949 N	Fabrice	14
+2	864 m^3	0.6007	Irvine	Santa Ana, Sacramento	Fabrice	0.7043	299	285	903 N	Lise	1013
+4	279 m^3	0.7294	San Bernardino	Riverside	Lise	0.2779	439	870	368 N	Tony	918
+4	257 m^3	0.6676	San Jose	Los Angeles	Lise	0.1776	505	784	295 N	Tony	833
+5	574 m^3	0.4454	Moreno Valley	San Francisco	Sam	-0.0363	209	827	460 N	eriq	582
+5	483 m^3	0.4688	Moreno Valley	San Francisco	Sam	0.307	337	823	589 N	Eriq	639
+1	356 m^3	0.0913	Long Beach	Modesto	Andrew	0.5893	1005	636	266 N	Inan	529
+1	255 m^3	-0.0127	Long Beach	Anaheim, Modesto	Inan	0.8178	985	732	216 N	Inan	461
+0	896 m^3	0.6541	San Diego	Fresno	Eriq	0.6606	444	209	1005 N	Reilly	208
+5	518 m^3	0.3902	Oakland	san francisco	Sam	0.047	188	1079	339 N	Eriq	505
+5	365 m^3	0.4122	Oakland	San Francisco	Sam	0.4823	396	626	285 N	Eriq	515
+1	5 m^3	-0.1883	mODESTO	Anaheim	Andrew	0.814	1227	463	416 N	Sam	347
+3	518 m^3	0.2118	Irvine	Oakland, Chula Vista, Moreno Valley, San Bernardino	Vani	0.695	665	368	574 N	Chris	386
+3	553 m^3	0.2399	Fremont	San Bernardino, Moreno Valley, Long Beach, Oakland	Vani	0.953	947	362	582 N	Chris	264
+2	907 m^3	0.9344	Modesto	Fremont, Sacramento, Irvine	Fabrice	0.709	213	-18	858 N	Lise	1027
+0	1004 m^3	0.656	Anaheim	Fresno, San Jose	Michael	0.4074	508	178	778 N	Vani	293
+3	575 m^3	0.273	Fremont	Moreno Valley	Vani	0.8716	525	351	642 N	Chris	64
+1	-32 m^3	-0.1183	Long Beach	Bakersfield, Santa Clarita, San Diego	Andrew	0.8352	872	654	164 N	Inan	393
+0	954 m^3	0.4894	San Diego	San Jose	Michael	0.5074	273	-57	718 N	Vani	226
+1	78 m^3	0.0932	Bakersfield	Los Angeles	Andrew	0.7345	887	576	162 N	Sam	409
+5	453 m^3	0.3099	sAN fRANCISCO	San Francisco	Sam	0.2282	-296	741	384 N	ERIQ	436
+3	818 m^3	0.2934	Fremont	Moreno Valley, San Bernardino	Vani	0.9896	688	436	471 N	Chris	201
+2	844 m^3	0.9329	Modesto	Santa Ana, Sacramento	Reilly	0.632	289	88	N/A	Lise	1083
+1	116 m^3	-0.0193	Long Beach	Modesto, San Diego, Santa Clarita	Inan	0.8282	830	595	267 N	Inan	363
+4	430 m^3	0.7711	San Bernardino	Riverside	Lise	0.0995	335	715	NULL	Michael	823
+5	264 m^3	0.1561	San Francisco	San Francisco	Sam	0.2525	335	891	490 N	eRIQ	375
+5	528 m^3	0.2695	Oakland	sAN fRANCISCO	Sam	0.2747	312	813	389 N	Eriq	656
+0	961 m^3	0.5357	Sacramento	Stockton	Eriq	0.4789	597	307	470 N	Reilly	22
+3	605 m^3	0.3482	n/a	San Bernardino, Oakland, Chula Vista	Vani	0.769	808	148	513 N	Chris	267
+4	46 m^3	0.6862	Fresno	Los Angeles	Lise	0.3935	571	760	95 N	Tony	674
+3	549 m^3	0.5457	irvine	Oakland	Vani	1.0719	768	362	420 N	Chris	303
+5	644 m^3	0.2448	Oakland	San Francisco	Sam	0.2416	137	1101	251 N	Eriq	735
+4	660 m^3	0.7248	San Bernardino	Riverside	Lise	0.1361	360	598	393 N	Michael	885
+5	464 m^3	0.4191	Oakland	San Francisco	Sam	0.1216	115	1029	371 N	Eriq	593
+2	739 m^3	0.8061	Modesto	Santa Ana, Irvine, Fremont	Fabrice	0.4622	347	-231	811 N	Lise	958
+2	574 m^3	0.8656	Los Angeles	Sacramento, Fremont, Irvine	Fabrice	0.7095	82	168	798 N	Lise	890
+4	203 m^3	0.7584	fresno	Los Angeles	Lise	0.4423	445	579	13 N	Sam	853
+2	1150 m^3	0.9277	Modesto	Sacramento, Irvine	Reilly	0.4667	362	31	852 N	Lise	904
+4	133 m^3	0.7603	San Jose	Riverside	Fabrice	0.4058	397	1013	275 N	Michael	716
+2	741 m^3	1.0497	Santa Ana	Santa Ana, Fremont, Irvine	Fabrice	0.5859	155	63	645 N	Lise	891
+3	621 m^3	0.2721	Irvine	Chula Vista, San Bernardino, Moreno Valley, Oakland	Vani	0.9105	844	575	542 N	Chris	175
+4	256 m^3	0.8454	Fresno	Los Angeles	Tony	0.0199	788	702	100 N	Michael	713
+3	357 m^3	0.1218	Irvine	Chula Vista	Vani	1.2715	745	429	503 N	Chris	129
+4	419 m^3	1.0868	sAN bERNARDINO	Riverside	Chris	0.0282	491	586	0 N	Tony	693
+3	620 m^3	0.1305	Fremont	Long Beach	Vani	0.9547	644	369	635 N	Chris	88
+1	-181 m^3	-0.1006	Chula Vista	Bakersfield, Santa Clarita, Anaheim	Inan	0.534	966	630	197 N	Inan	390
+2	711 m^3	0.8968	Santa Ana	Irvine, Sacramento	Reilly	0.1596	195	-113	760 N	Lise	911
+0	910 m^3	0.499	San Diego	Fresno, Stockton	Michael	0.413	644	-26	833 N	Reilly	27
+3	579 m^3	0.4567	Irvine	chula vista	Vani	0.7641	888	346	860 N	Chris	229
+0	863 m^3	0.5087	Sacramento	Stockton	Eriq	0.4736	571	342	801 N	Andrew	242
+3	557 m^3	0.3622	Irvine	Long Beach	Vani	0.8752	987	399	656 N	Chris	95
+1	320 m^3	-0.1019	Chula Vista	Modesto, Santa Clarita, Bakersfield	Andrew	0.8468	955	478	404 N	Sam	284
+0	1076 m^3	0.4208	Anaheim	Stockton, San Jose	Michael	0.6832	341	234	1038 N	Reilly	94
+0	959 m^3	0.6844	Anaheim	Fresno	Eriq	0.5735	792	46	561 N	Fabrice	276
+0	942 m^3	0.4586	San Diego	Fresno, Stockton	Eriq	0.5199	414	173	540 N	Vani	292
+2	595 m^3	0.7533	Sacramento	Sacramento, Irvine	Reilly	0.675	12	-102	898 N	Lise	1064
+4	208 m^3	0.8371	San Jose	Riverside	Lise	0.2331	252	740	75 N	Michael	989
+1	-2 m^3	0.0327	Chula Vista	Santa Clarita, San Diego, Bakersfield	Inan	0.9943	1182	398	375 N	Sam	477
+2	869 m^3	0.8835	Anaheim	Irvine, Sacramento, Santa Ana	Andrew	0.3532	371	42	610 N	Lise	1080
+5	309 m^3	0.4166	Oakland	San Francisco	Sam	0.4697	-191	802	349 N	Eriq	646
+3	808 m^3	0.2412	Irvine	Riverside	Vani	1.0702	412	469	646 N	Chris	205
+0	981 m^3	0.7295	Anaheim	Stockton, San Jose	Eriq	0.2986	461	334	927 N	Fabrice	103
+1	157 m^3	-0.0968	bakersfield	San Diego, Santa Clarita, Bakersfield	Inan	0.5977	1013	516	130 N	Inan	306
+1	104 m^3	0.0964	Long Beach	San Diego, Modesto, Anaheim, Santa Clarita	Andrew	0.7731	938	343	233 N	iNAN	303
+3	547 m^3	0.25	Irvine	Modesto, Bakersfield	Vani	0.7604	893	485	254 N	Chris	395
+1	27 m^3	-0.0405	Bakersfield	Modesto, Anaheim, Santa Clarita, San Diego	Inan	0.643	1174	585	-44 N	Sam	144
+3	562 m^3	0.3111	Fremont	San Bernardino	Vani	0.9179	831	277	574 N	Chris	426
+3	527 m^3	0.4117	Fremont	Oakland, Chula Vista, Moreno Valley, San Bernardino	Vani	1.0113	954	679	667 N	Chris	289
+2	1059 m^3	1.0279	Modesto	Irvine	Reilly	0.6576	22	109	1023 N	Lise	957
+4	281 m^3	0.5515	San Bernardino	Bakersfield	Lise	NULL	701	654	72 N	Tony	900
+0	1076 m^3	0.5424	Anaheim	Fresno, San Jose	Michael	0.6259	689	303	588 N	Andrew	73
+4	131 m^3	0.8018	Fresno	Los Angeles	Tony	0.04	688	582	-24 N	Tony	821
+2	799 m^3	0.791	Modesto	Sacramento, Fremont, Irvine	Reilly	0.6284	148	234	962 N	Michael	909
+1	118 m^3	-0.1522	Long Beach	Santa Clarita, San Diego, Bakersfield	Andrew	0.5424	1049	452	281 N	Inan	370
+4	272 m^3	0.9014	Fresno	Riverside	Tony	0.0504	558	870	124 N	Michael	909
+3	606 m^3	0.3683	Irvine	Oakland, Long Beach	Vani		699	458	487 N	Chris	192
+5	172 m^3	0.368	San Francisco	San Francisco	Sam	0.3489	295	980	278 N	Eriq	530
+2	771 m^3	0.9185	Santa Ana	Fremont, Irvine, Sacramento	Reilly	0.4028	282	-49	718 N	Lise	891
+0	869 m^3	0.7025	Sacramento	Sacramento, Fremont, Irvine	Eriq	0.273	663	-84	811 N	Reilly	62
+0	864 m^3	0.5385	SAN DIEGO	Fresno	Eriq	0.3899	527	165	736 N	Reilly	1
+3	543 m^3	0.2427	Irvine	Chula Vista, San Bernardino, Oakland	Vani	0.6066	740	697	542 N	Chris	305
+5	549 m^3	0.3633	Moreno Valley	San Francisco	Sam	0.4356	175	937	515 N	Eriq	423
+2	925 m^3	0.9644	Santa Clarita	Fremont, Irvine, Santa Ana	Fabrice	0.4985	467	-93	1067 N	Lise	1036
+1	149 m^3	0.0044	Long Beach	San Diego, Bakersfield	Andrew	0.6232	870	483	293 N	Sam	546
+1	-141 m^3	-0.0555	Chula Vista	Riverside	Inan	0.7737	797	635	580 N	iNAN	487
+5	503 m^3	0.1558	Riverside	San Diego	Sam	0.6433	252	730	788 N	Eriq	584
+2	864 m^3	0.9542	Modesto	Irvine, Sacramento, Fremont	Reilly	0.7301	266	422	1051 N	Lise	800
+2	1015 m^3	0.7543	Santa Ana	Irvine, Santa Ana	Reilly	0.5665	259	88	848 N	Lise	1062
+0	1132 m^3	0.5117	Stockton	San Jose, Stockton	Eriq	0.6913	582	90	872 N	Reilly	90
+1	-112 m^3	0.211	Bakersfield	Modesto, Anaheim	iNAN	0.728	1139	656	415 N	Inan	619
+4	316 m^3	0.6942	Fresno	Long Beach	Lise	0.1448	513	768	102 N	Tony	812
+5	247 m^3	0.4408	Moreno Valley	San Francisco	Sam	0.6223	130	1185	491 N	Eriq	425
+2	931 m^3	0.8236	Santa Clarita	Santa Ana, Fremont, Irvine	Reilly	0.477	336	4	835 N	Lise	865
+2	NULL	0.9068	Los Angeles	Irvine	Reilly	0.5178	328	143	1065 N	Lise	885
+0	1085 m^3	0.5399	Sacramento	Stockton, Fresno	Eriq	0.2707	635	251	842 N	Reilly	385
+0	1058 m^3	0.7089	Stockton	Stockton, San Jose	Eriq	0.2127	334	303	597 N	Andrew	138
+4	243 m^3	0.5938	San Jose	Moreno Valley, Long Beach, Chula Vista	Lise	0.1932	641	884	69 N	Michael	834
+3	686 m^3	0.3234	Fremont	sAN bERNARDINO, mORENO vALLEY, lONG bEACH	Tony	1.0964	722	308	328 N	Chris	234
+3	691 m^3	0.21	Irvine	San Jose	Vani	1.0984	650	492	622 N	Chris	318
+3	694 m^3	0.3145	Fremont	long beach, chula vista	Vani	0.7658	606	746	482 N	Chris	116
+1	-151 m^3	-0.1111	Long Beach	n/a	Andrew	1.0431	883	648	275 N	Inan	551
+0	890 m^3	0.8302	Riverside	Stockton	Eriq	0.4712	297	228	668 N	Reilly	203
+2	909 m^3	0.9074	Santa Ana	Anaheim, Santa Clarita, San Diego	Reilly	0.6051	401	124	971 N	Lise	1254
+4	498 m^3	0.6207	San Bernardino	Los Angeles	Chris	0.4158	254	777	-44 N	Tony	830
+2	885 m^3	0.938	Santa Clarita	Santa Ana, Sacramento, Irvine	Reilly	0.3617	148	41	945 N	Lise	864
+3	462 m^3	0.2717	Fremont	Long Beach, Oakland, San Bernardino	Vani	0.9502	618	521	861 N	Chris	126
+2	713 m^3	0.9293	Santa Clarita	Irvine, Fremont	Reilly	0.5287	224	-161	897 N	Lise	1039
+4	382 m^3	0.6056	San Bernardino	Riverside	Sam	0.0885	626	819	-68 N	Tony	925
+4	129 m^3	0.7184	San Jose	Riverside	Tony	0.4976	534	796	58 N	Michael	790
+5	204 m^3	0.4579	Moreno Valley	San Francisco	Sam	0.4546	475	1132	470 N	Eriq	418
+1	124 m^3	0.0573	Long Beach	Irvine	Andrew	0.5715	1080	713	315 N	Reilly	620
+2	899 m^3	0.6839	Modesto	Santa Ana, Irvine, Sacramento	Michael	0.4684	216	-129	1040 N	Lise	982
+2	821 m^3	0.9029	Los Angeles	Irvine, Fremont	Reilly	0.7016	253	84	772 N	Lise	852
+3	457 m^3	0.4518	Irvine	Chula Vista, San Bernardino, Long Beach, Oakland	Vani	1.103	848	733	500 N	Chris	294
+4	135 m^3	0.6682	San Jose	Los Angeles	Lise	-0.0222	874	827	109 N	Michael	931
+1	-174 m^3	-0.0808	Long Beach	Modesto	Inan	0.5911	641	609	228 N	Inan	542
+3	540 m^3	0.5117	fremont	Stockton, San Jose	Vani	0.8799	632	560	357 N	Chris	238
+3	930 m^3	0.6376	Fremont	Chula Vista	Vani	1.0272	1092	251	765 N	Chris	166
+2	635 m^3	0.6778	Santa Clarita	Fremont	Reilly	0.8141	260	-38	745 N	Lise	724
+0	832 m^3	0.569	Anaheim	San Jose, Fresno	Tony	0.6283	336	199	776 N	Vani	86
+0	1080 m^3	0.3298	Anaheim	Fresno, San Jose	Eriq	0.4255	607	185	555 N	Fabrice	286
+4	314 m^3	0.8576	Fresno	Los Angeles	Lise	0.0473	N/A	826	24 N	Michael	861
+0	1151 m^3	0.6776	Anaheim	Fresno	Michael	0.5279	368	214	588 N	Fabrice	65
+1	32 m^3	-0.0095	Long Beach	Long Beach, San Bernardino, Moreno Valley	Andrew	0.6384	1228	463	68 N	Sam	353
+4	-18 m^3	0.678	San Bernardino	Los Angeles	Tony	0.056	775	794	161 N	Michael	1069
+5	654 m^3	0.5489	Moreno Valley	San Francisco	Sam	0.4782	262	1042	489 N	Eriq	594
+3	781 m^3	0.3757	Bakersfield	Long Beach	Vani	0.8849	882	267	642 N	Chris	167
+2	799 m^3	0.8638	Los Angeles	Santa Ana, Sacramento	Reilly	0.8637	20	-116	986 N	Lise	839
+5	353 m^3	0.405	Oakland	San Francisco	Sam	0.5633	99	1099	572 N	Eriq	493
+2	841 m^3	0.9797	Los Angeles	Fremont	Fabrice	0.8534	492	-28	721 N	Michael	925
+3	557 m^3	0.2708	Irvine	Chula Vista	Vani	0.9318	731	386	456 N	Chris	149
+4	201 m^3	0.4614	Fresno	Los Angeles	TONY	0.0825	651	824	180 N	Tony	815
+0	1177 m^3	0.7175	San Diego	Fresno, San Jose	Michael	0.524	761	274	753 N	Fabrice	76
+1	99 m^3	0.0402	Bakersfield	Anaheim	Andrew	0.591	1000	517	209 N	Sam	308
+4	151 m^3	0.7198	San Jose	Los Angeles	Lise	0.1439	507	691	218 N	Michael	791
+3	576 m^3	0.3317	Irvine	Long Beach	Vani	0.8887	916	503	644 N	Chris	134
+2	1032 m^3	0.8613	Modesto	Fremont, Sacramento	Michael	0.5667	377	-88	939 N	Lise	875
+2	714 m^3	1.0202	Santa Ana	Long Beach	Fabrice	0.7927	303	103	786 N	Lise	919
+5	515 m^3	0.3025	San Francisco	San Francisco	Sam	0.1352	382	959	259 N	Eriq	NULL
+5	422 m^3	0.3137	San Francisco	San Francisco	Sam	0.3095	19	993	458 N	Eriq	542
+2	890 m^3	0.6236	Modesto	Santa Ana, Irvine	Fabrice	0.6666	369	-137	978 N	Lise	971
+1	-84 m^3	-0.0319	Long Beach	Bakersfield	Andrew	0.749	923	736	252 N	Inan	456
+2	805 m^3	0.6421	Bakersfield	Fremont	Fabrice	0.6339	409	-28	718 N	Lise	1095
+5	686 m^3	0.2906	Riverside	San Francisco	Sam	0.1859	-94	1045	495 N	Eriq	412
+0	827 m^3	0.6025	San Diego	Fresno, San Jose	Eriq	0.267	571	382	n/a	Eriq	114
+4	404 m^3	0.8082	San Bernardino	Riverside	Tony	0.0618	557	982	316 N	Tony	972
+4	132 m^3	0.6078	Fresno	Riverside	lISE	0.0835	516	918	136 N	Michael	808
+5	640 m^3	0.4559	Oakland	San Francisco	Sam	0.5585	405	1076	596 N	Eriq	501
+2	921 m^3	0.9536	Modesto	Santa Ana	Fabrice	0.4354	212	434	1042 N	Lise	996
+4	177 m^3	0.8506	Fresno	Los Angeles	Lise	0.0188	452	754	337 N	Tony	699
+4	414 m^3	0.9435	Fresno	Los Angeles	Chris	0.1562	648	533	127 N	Tony	619
+1	-198 m^3	0.0205	Long Beach	Anaheim, Santa Clarita, San Diego	Inan	0.994	656	496	456 N	sAM	557
+1	99 m^3	-0.0519	Bakersfield	Anaheim, San Diego, Modesto, Santa Clarita	Andrew	0.9485	771	601	344 N	Sam	338
+5	523 m^3	0.244	Oakland	San Francisco	Sam	0.6227	427	885	360 N	Eriq	635
+2	950 m^3	0.8893	SANTA ANA	Santa Ana, Sacramento	Reilly	0.5972	105	-19	871 N	Lise	798
+5	550 m^3	0.2665	Moreno Valley	San Francisco	Sam	0.1581	159	807	455 N	Eriq	515
+0	870 m^3	0.6849	Anaheim	Fresno, Stockton	Eriq	0.551	454	14	1121 N	Vani	180
+5	693 m^3	0.2244	Riverside	sAN fRANCISCO	Sam	0.2821	-122	938	436 N	Eriq	601
+4	282 m^3	0.7571	San Jose	Los Angeles	Tony	0.2391	760	528	168 N	Michael	743
+5	427 m^3	0.5218	San Francisco	San Francisco	Sam	0.2842	141	1110	395 N	Eriq	698
+2	913 m^3	0.8842	lOS aNGELES	Irvine	Reilly	0.5744	319	412	954 N	Lise	1039
+3	524 m^3	0.4223	Fremont	Long Beach, Oakland, Chula Vista	Vani	0.8675	1057	330	NULL	Chris	217
+3	397 m^3	0.1716	Irvine	Moreno Valley	Inan	0.8365	803	579	351 N	Chris	192
+3	859 m^3	0.342	Irvine	San Bernardino, Oakland	Vani	0.6321	706	361	582 N	Eriq	242
+1	-18 m^3	0.079	Bakersfield	San Diego	Inan	0.5042	752	701	106 N	Inan	308
+5	342 m^3	0.4766	Riverside	San Francisco	Sam	0.275	46	831	839 N	Eriq	699
+2	986 m^3	0.6729	Santa Clarita	sANTA aNA	Reilly	0.6318	41		886 N	Lise	800
+3	588 m^3	0.465	Fremont	San Bernardino, Oakland, Long Beach, Chula Vista	Vani	0.849	1068	177	568 N	Chris	232
+0	1148 m^3	0.4269	Stockton	sAN jOSE	Michael	0.0772	584	102	640 N	Andrew	118
+5	161 m^3	0.4942	Moreno Valley	San Francisco	Sam	0.5945	303	1129	281 N	Eriq	534
+4	-58 m^3	0.785	Fresno	Riverside	Eriq	-0.0666	794	644	40 N	Tony	790
+2	803 m^3	0.9114	Modesto	Fremont, Sacramento	Reilly	0.5666	384	-3	891 N	Lise	916
+2	955 m^3	0.7357	sANTA cLARITA	Fremont	Reilly	0.5392	153	92	940 N	Lise	774
+3	640 m^3	0.301	Fremont	Los Angeles	Vani	0.9378	920	425	571 N	Chris	194
+3	704 m^3	0.4685	Irvine	Chula Vista, San Bernardino, Moreno Valley, Long Beach	Vani	1.2001	752	419	482 N	Chris	201
+1	-273 m^3	0.1015	Long Beach	Bakersfield	Inan	0.8709	1012	758	381 N	Sam	355
+2	884 m^3	1.0112	Santa Ana	Fremont, Sacramento, Santa Ana	Reilly	0.9086	258	239	857 N	Lise	1199
+3	597 m^3	0.3319	Irvine	Chula Vista	Vani	0.892	912	416	449 N	chris	30
+5	529 m^3	0.2566	Oakland	San Francisco	Sam	0.3364	146	1122	354 N	Eriq	491
+5	312 m^3	0.1401	San Francisco	San Francisco	Sam	0.2799	235	1156	323 N	Eriq	813
+1	107 m^3	-0.0539	Long Beach	Modesto, Santa Clarita	Inan	0.8642	1204	NULL	144 N	Sam	481
+0	980 m^3	0.5924	Fremont	Stockton, San Jose	Michael	0.347	336	373	771 N	Andrew	-54
+2	754 m^3	0.5374	Modesto	Irvine	Fabrice	0.6496	150	134	932 N	Lise	875
+5	508 m^3	0.3804	San Francisco	San Francisco	Sam	0.4089	393	783	613 N	Eriq	639
+0	823 m^3	0.6388	Stockton	Stockton, Fresno	Fabrice	0.5163	451	65	882 N	Reilly	27
+5	389 m^3	0.1754	Moreno Valley	San Francisco	Sam	0.1914	105	938	354 N	Lise	353
+2	678 m^3	0.5989	Modesto	Fremont, Irvine	Fabrice	0.741	122	130	960 N	Lise	971
+3	588 m^3	0.1468	n/a	Long Beach, San Bernardino, Oakland, Chula Vista	Vani	1.1047	824	264	306 N	Chris	408
+2	481 m^3	0.6777	Santa Ana	Sacramento, Irvine	Fabrice	0.6544	460	157	647 N	Lise	1019
+3	710 m^3	0.3551	Fremont	Moreno Valley, Long Beach	Vani	0.7129	957	458	650 N	Chris	141
+1	-17 m^3	-0.0496	Bakersfield	Anaheim	Andrew	1.0514	985	566	266 N	Inan	303
+2	1042 m^3	1.0253	Los Angeles	Santa Ana, Fremont, Irvine	Fabrice	0.7668	178	253	702 N	Lise	1048
+2	736 m^3	0.9046	MODESTO	Sacramento, Santa Ana, Irvine	Reilly	0.6154	373	-36	587 N	Lise	655
+5	339 m^3	0.2993	Oakland	San Francisco	Sam	0.2393	351	857	458 N	Eriq	603
+4	326 m^3	0.7501	San Jose	Los Angeles	Lise	-0.0918	569	704	294 N	Michael	642
+2	839 m^3	0.8709	Los Angeles	Irvine, Fremont	Fabrice	0.4808	46	326	860 N	Lise	1043
+1	-50 m^3	0.1142	Long Beach	Irvine	Andrew	0.7224	814	582	303 N	Sam	507
+2	792 m^3	0.8566	Santa Clarita	Sacramento, Irvine	Reilly	0.294	553	181	735 N	Lise	931
+3	284 m^3	0.3367	Fremont	Chula Vista	Vani	0.9542	1020	635	460 N	Chris	211
+0	810 m^3	0.6703	Stockton	San Jose	Michael	0.5597	638	138	825 N	Andrew	170
+5	254 m^3	0.3596	Riverside	San Francisco	Sam	0.3986	219	1015	559 N	Eriq	617
+0	798 m^3	0.6139	Anaheim	Moreno Valley, Oakland	Eriq	0.4829	634	5	739 N	Fabrice	41
+1	144 m^3	0.0215	Bakersfield	Bakersfield, Modesto	Vani	0.7692	1086	501	220 N	Sam	526
+5	286 m^3	0.3347	San Francisco	San Francisco	Sam	0.5085	100	882	209 N	Eriq	571
+5	436 m^3	0.2607	Moreno Valley	San Francisco	Sam	0.2997	213	943	323 N	Eriq	602
+4	177 m^3	0.702	sAN bERNARDINO	Riverside	Tony	0.1189	764	770	165 N	Michael	1016
+1	51 m^3	0.1734	Chula Vista	Modesto, Anaheim	Andrew	0.9455	1081	832	295 N	INAN	422
+0	1090 m^3	0.5227	Stockton	San Jose	Michael	0.3393	475	164	903 N	Reilly	-209
+5	830 m^3	0.3172	Riverside	San Francisco	Sam	0.3246	39	802	694 N	Eriq	660
+2	826 m^3	0.8205	Santa Clarita	Irvine	Fabrice	0.4975	86	102	829 N	Lise	980
+4	166 m^3	0.6581	Fresno	Los Angeles	Chris	0.1731	247	948	267 N	Tony	907
+0	931 m^3	0.1884	San Diego	Anaheim, Modesto, Bakersfield	Eriq	0.7042	465	151	770 N	Reilly	
+2	651 m^3	0.829	Los Angeles	Fremont	Reilly	0.5021	375	90	920 N	Lise	1030
+1	178 m^3	0.1947	Long Beach	San Diego, Bakersfield	Andrew	1.0092	n/a	388	321 N	Inan	383
+1	-24 m^3	0.1013	Bakersfield	Modesto, Santa Clarita, Bakersfield	Inan	0.6578	1051	682	146 N	Inan	410
+3	564 m^3	0.2338	IRVINE	Moreno Valley	Vani	0.7451	760	419	397 N	Chris	190
+0	1134 m^3	0.4414	Stockton	Fresno	Eriq	0.1072	434	110	746 N	Fabrice	273
+1	-38 m^3	0.1428	Long Beach	Bakersfield, San Diego, Modesto	Inan	0.587	888	490	422 N	Inan	601
+2	761 m^3	0.9394	Modesto	Santa Ana, Sacramento	Reilly	0.5568	380	36	857 N	Lise	963
+4	58 m^3	0.6618	Fresno	Riverside	Chris	0.128	489	794	256 N	Michael	973
+1	-5 m^3	-0.08	Bakersfield	Anaheim, San Diego	Andrew	0.6925	994	482	170 N	Inan	474
+5	436 m^3	0.5514	Moreno Valley	San Francisco	Sam	0.4713	282	1011	416 N	Eriq	805
+1	-89 m^3	0.1377	Long Beach	San Francisco	Inan	0.7056	877	723	262 N	Sam	523
+1	273 m^3	-0.0129	Long Beach	Santa Clarita	INAN	0.7352	1015	646	435 N	Sam	498
+1	-66 m^3	-0.1787	Long Beach	Modesto	Andrew	0.8451	1144	707	68 N	Inan	433
+5	281 m^3	0.3562	Riverside	San Francisco	Sam	0.3263	159	909	303 N	Eriq	511
+0	929 m^3	0.6574	San Diego	San Jose	Eriq	0.6325	490	13	699 N	Andrew	145
+0	718 m^3	0.6464	San Diego	Stockton, San Jose	Sam	0.5202	498	114	873 N	Reilly	169
+2	920 m^3	0.8369	Modesto	Sacramento	Reilly	0.6321	228	205	787 N	Lise	851
+1	78 m^3	0.3203	Chula Vista	Bakersfield	Inan	0.8917	886	523	310 N	Inan	477
+2	1009 m^3	0.8881	Santa Ana	Sacramento, Santa Ana	Fabrice	0.5283	388	56	n/a	Lise	773
+5	702 m^3	0.2255	San Francisco	San Francisco	Sam	0.3126	183	777	440 N	Eriq	709
+2	822 m^3	0.9684	Modesto	Sacramento, Santa Ana	Fabrice	0.6645	37	79	801 N	Lise	832
+0	901 m^3	0.6323	Anaheim	Stockton	Michael	0.5979	388	208	803 N	Andrew	206
+0	886 m^3	0.7717	Stockton	Fresno	Eriq	0.3789	602	363	779 N	Reilly	307
+4	25 m^3	0.794	Fresno	San Francisco	Tony	0.12	847	539	-13 N	Michael	1023
+0	840 m^3	0.7063	San Diego	Los Angeles	Michael	0.5191	282	307	630 N	Reilly	191
+3	713 m^3	0.3032	Irvine	Chula Vista, Moreno Valley, Long Beach	Vani	0.9645	737	297	730 N	Chris	249
+1	-88 m^3	-0.079	Long Beach	San Diego	INAN	0.9132	1048	420	23 N	Sam	360
+3	438 m^3	0.3449	Fremont	Moreno Valley	Vani	0.4853	859	475	682 N	Chris	207
+3	645 m^3	0.4959	Irvine	Oakland, San Bernardino	Vani	1.4032	864	456	618 N	Chris	176
+1	-81 m^3	0.0635	Chula Vista	Modesto, San Diego, Santa Clarita, Anaheim	Inan	1.1023	677	724	549 N	Sam	408
+2	1001 m^3	0.8487	Santa Ana	Fremont	Reilly	0.7223	418	-29	944 N	Lise	901
+5	482 m^3	0.2413	San Francisco	San Francisco	Reilly	0.4272	115	865	274 N	Eriq	647
+3	795 m^3	0.3324	Irvine	Moreno Valley, San Bernardino, Chula Vista, Long Beach	Vani	0.6904	885	253	645 N	Chris	119
+4	306 m^3	0.9639	Fresno	Riverside	Chris	0.1957	451	876	317 N	Tony	855
+4	135 m^3	0.6714	Fresno	Los Angeles	Lise	0.2141	338	1028	-14 N	Sam	891
+0	1018 m^3	0.729	Sacramento	Fresno, Stockton	Michael	0.4156	450	336	806 N	Reilly	275
+5	403 m^3	0.4472	Oakland	San Francisco	Sam	0.3554	351	880	454 N	n/a	650
+1	126 m^3	0.0829	Bakersfield	Modesto, San Diego	Andrew	0.5249	820	696	235 N	Sam	379
+0	987 m^3	0.5877	Anaheim	Stockton	Michael	0.6503	233	-112	668 N	Andrew	33
+5	549 m^3	0.4629	San Francisco	San Francisco	Sam	0.3922	-2	480	673 N	Eriq	669
+3	611 m^3	0.1278	Fremont	Chula Vista, Oakland, San Bernardino	Vani	0.8611	793	580	549 N	Chris	195
+4	273 m^3	0.5632	San Jose	RIVERSIDE	Lise	0.0703	200	586	282 N	Michael	935
+4	8 m^3	0.7695	San Jose	Riverside	Chris	0.2169	321	793	-59 N	Tony	831
+0	861 m^3	0.5593	Sacramento	Fresno, San Jose	Eriq	0.4697	553	127	1015 N	Vani	160
+1	149 m^3	-0.1618	Long Beach	Sacramento	Inan	0.7995	1006	735	460 N	Inan	497
+5	479 m^3	0.4512	Oakland	San Francisco	Sam	0.2873	-85	904	727 N	Eriq	596
+5	378 m^3	0.455	Moreno Valley	San Francisco	sam	0.3067	67	977	582 N	Eriq	440
+4	265 m^3	0.6014	San Bernardino	San Francisco	Tony	0.1004	463	903	395 N	Michael	817
+5	425 m^3	0.1886	Oakland	San Francisco	Sam	0.3777	-51	857	296 N	Eriq	534
+1	178 m^3	0.1313	Chula Vista	Santa Clarita, Bakersfield, Modesto, Anaheim	Inan	0.7284	719	630	300 N	Inan	413
+4	352 m^3	0.7547	Long Beach	Riverside	Chris	-0.0826	515	558	271 N	Michael	815
+2	718 m^3	0.7351	Santa Ana	Fremont, Irvine, Sacramento	Reilly	0.6781	232	-345	953 N	Lise	1042
+0	1055 m^3	0.5294	Sacramento	Stockton, Fresno	Eriq	0.5706	721	-7	709 N	Andrew	63
+1	-5 m^3	0.0503	Modesto	san diego, anaheim, santa clarita, modesto	Andrew	0.7568	942	399	385 N	Sam	370
+4	182 m^3	0.9058	San Jose	Riverside	Chris	0.484	813	931	95 N	Tony	815
+5	433 m^3	0.0437	Moreno Valley	San Francisco	Sam	0.5132	311	825	623 N	Eriq	583
+3	605 m^3	0.387	Irvine	Bakersfield	Sam	0.8269	715	378	709 N	Chris	97
+1	-188 m^3	0.0877	Chula Vista	Anaheim, Bakersfield	Tony	0.6888	788	768	313 N	Inan	294
+2	887 m^3	0.9376	Santa Ana	Fremont, Irvine, Sacramento	Fabrice	0.8949	85	91	1081 N	Lise	n/a
+0	1183 m^3	0.5823	Sacramento	Stockton, Fresno	Sam	0.3555	None	70	923 N	Fabrice	261
+2	832 m^3	0.8632	Modesto	Santa Ana, Fremont, Sacramento	Fabrice	0.4126	422	96	785 N	Lise	815
+1	-213 m^3	-0.1325	Long Beach	Bakersfield, Santa Clarita, San Diego, Anaheim	Andrew	0.7335	717	590	264 N	Sam	605
+4	-17 m^3	0.9029	Fresno	Los Angeles	Chris	0.2397	594	761	124 N	Tony	946
+2	1002 m^3	0.799	Santa Clarita	Oakland	Reilly	0.6651	466	-171	997 N	Lise	927
+4	82 m^3	0.7331	San Bernardino	Los Angeles	Lise	-0.0301	414	857	91 N	Michael	964
+5	367 m^3	0.3003	Riverside	San Francisco	Sam	0.3048	120	880	403 N	Eriq	555
+0	1128 m^3	0.895	Stockton	sAN jOSE, sTOCKTON	Michael	0.4403	877	131	769 N	fABRICE	264
+5	479 m^3	0.4114	San Francisco	San Francisco	Sam	0.4394	229	1036	613 N	Eriq	597
+0	1252 m^3	0.655	Sacramento	Fresno	Inan	0.3526	353	30	678 N	Andrew	227
+3	635 m^3	0.2972	Fremont	Moreno Valley	Vani	0.8804	875	462	672 N	Michael	415
+0	691 m^3	0.6449	Anaheim	Fresno	Michael	0.5684	597	449	796 N	Fabrice	327
+0	748 m^3	0.514	San Diego	Stockton	Michael	0.3958	772	366	763 N	Reilly	98
+3	451 m^3	0.2073	Irvine	Long Beach, Moreno Valley, Chula Vista, Oakland	Vani	0.832	785	355	621 N	Chris	140
+0	815 m^3	0.6016	San Diego	San Jose	Eriq	0.4879	611	187	827 N	Fabrice	244
+0	1172 m^3	0.7387	Stockton	Fresno, Stockton	Michael	0.1814	648	92	505 N	Fabrice	238
+4	-4 m^3	0.8079	San Bernardino	Riverside	Lise	0.2502	134	815	269 N	Tony	959
+1	-80 m^3	0.1448	Chula Vista	San Diego, Santa Clarita, Anaheim, Modesto	Inan	0.9398	859	516	59 N	Inan	584
+1	200 m^3	-0.08	Bakersfield	Modesto, Bakersfield, Anaheim	Inan	0.9746	694	563	238 N	Sam	610
+2	766 m^3	0.9278	Santa Ana	Sacramento	Fabrice	0.5253	48	-130	893 N	lise	970
+5	471 m^3	0.439	San Francisco	San Francisco	Sam	0.1977	59	791	492 N	Eriq	423
+2	909 m^3	1.0838	Los Angeles	Santa Ana, Sacramento, Irvine	Reilly	0.4798	486	208	840 N	Lise	1063
+2	724 m^3	0.7318	Modesto	Irvine, Fremont, Santa Ana	Reilly	0.5333	448	64	None	Lise	1003
+4	95 m^3	0.8682	San Jose	los angeles	Chris	0.119	486	722	46 N	Tony	704
+3	N/A	0.3461	FREMONT	Chula Vista	vani	1.0183	663	587	432 N	Lise	0
+2	846 m^3	0.976	Los Angeles	Riverside	Fabrice	0.3786	148	86	1049 N	Lise	917
+2	643 m^3	1.0195	Los Angeles	Sacramento, Fremont, Irvine	Fabrice	0.6929	397	-122	1007 N	Lise	909
+4	-19 m^3	0.7044	San Jose	Los Angeles	Lise	0.2842	304	817	305 N	Michael	1007
+3	567 m^3	0.1364	Irvine	Chula Vista, Moreno Valley, San Bernardino, Long Beach	Vani	0.9179	1001	602	599 N	Chris	380
+5	445 m^3	0.3907	San Francisco	San Francisco	Sam	0.4501	202	1100	512 N	Eriq	500
+1	-258 m^3	0.1304	Long Beach	San Diego, Bakersfield, Santa Clarita, Anaheim	Inan	0.8216	1005	511	172 N	Lise	317
+0	895 m^3	0.7019	Sacramento	Stockton, Fresno	ERIQ	0.6977	556	125	726 N	Andrew	286
+2	828 m^3	0.7928	Santa Ana	Sacramento, Santa Ana, Irvine	Fabrice	0.7853	-177	-31	766 N	Lise	1115
+2	642 m^3	0.96	Modesto	Santa Ana, Fremont, Irvine	Fabrice	0.644	251	47	847 N	Lise	1000
+3	639 m^3	0.0599	Irvine	San Bernardino, Moreno Valley	Vani	1.0617	711	406	598 N	CHRIS	349
+2	768 m^3	0.8745	Santa Ana	Fremont, Irvine	Fabrice	0.4926	66	51	709 N	Lise	1250
+5	427 m^3	0.4992	Riverside	San Francisco	Sam	0.1863	14	830	647 N	Eriq	873
+1	-155 m^3	0.0609	Long Beach	Anaheim, Bakersfield, Santa Clarita, San Diego	Andrew	0.9574	907	578	427 N	Inan	325
+5	343 m^3	0.4621	San Francisco	San Francisco	Sam	0.2991	143	1117	467 N	Eriq	572
+2	896 m^3	0.7945	Modesto	Sacramento	Fabrice	0.4436	524	-76	735 N	Lise	757
+4	221 m^3	0.6692	Fresno	Riverside	tONY	0.3693	323	780	10 N	Michael	948
+4	176 m^3	0.6112	San Jose	Riverside	Tony	0.001	354	706	199 N	Michael	893
+3	607 m^3	0.0992	Fremont	San Bernardino, Long Beach, Chula Vista, Moreno Valley	Vani	1.0481	575	375	559 N	Chris	239
+1	4 m^3	0.1471	Chula Vista	Anaheim, San Diego, Modesto, Bakersfield	Chris	0.8237	890	874	69 N	Inan	364
+3	516 m^3	0.5178	Irvine	Oakland	Vani	1.1683	662	379	570 N	Chris	158
+4	108 m^3	0.6824	San Bernardino	Riverside	Lise	0.2219	645	839	226 N	Michael	990
+5	490 m^3	0.2754	San Francisco	San Francisco	Sam	0.2888	-1	833	596 N	Eriq	561
+5	521 m^3	0.2867	Moreno Valley	San Francisco	Sam	0.3105	-26	1091	302 N	Eriq	601
+5	436 m^3	0.3759	Oakland	San Francisco	Sam	0.0511	234	858	703 N	Eriq	435
+1	77 m^3	-0.0404	Chula Vista	San Diego	Tony	0.731	963	502	527 N	Inan	330
+3	586 m^3	0.3256	Irvine	Moreno Valley, Chula Vista, San Bernardino, Oakland	Vani	1.0455	963	80	517 N	Chris	219
+0	1171 m^3	0.7037	Stockton	Fresno	Michael	0.2827	659	59	829 N	Eriq	110
+0	1109 m^3	0.5167	Sacramento	San Jose, Fresno	Eriq	0.3771	544	6	907 N	Vani	230
+5	446 m^3	0.3492	Moreno Valley	san francisco	Sam	0.3725	337	1161	268 N	Eriq	620
+3	503 m^3	0.415	Fremont	Oakland, Moreno Valley, Long Beach	Vani	0.8243	758	360	538 N	Chris	446
+4	179 m^3	0.7671	San Bernardino	Los Angeles	Chris	0.1674	789	647	-1 N	Tony	849
+0	906 m^3	0.6869	San Diego	Stockton, Fresno	Michael	0.3752	207	170	712 N	Fabrice	41
+1	35 m^3	-0.1404	Long Beach	Anaheim, Modesto	Andrew	0.9446	940	703	222 N	iNAN	85
+4	203 m^3	0.67	San Bernardino	Los Angeles	Lise	0.114	365	345	181 N	Michael	863
+0	1019 m^3	0.4903	Sacramento	San Jose	Michael	0.2749	423	305	933 N	Reilly	57
+0	1044 m^3	0.6827	Sacramento	Fresno	Michael	0.4139	624	63	686 N	Reilly	137
+1	44 m^3	0.0658	Chula Vista	Modesto, Anaheim	Andrew	0.9369	981	583	301 N	Sam	448
+1	-99 m^3	0.0681	Long Beach	Anaheim	Andrew	1.078	749	546	238 N	Sam	388
+2	637 m^3	0.8949	Oakland	Fremont, Sacramento	Reilly	0.6033	269	-143	719 N	Lise	981
+2	664 m^3	0.9356	Santa Ana	Irvine	Reilly	0.5144	401	-35	800 N	Lise	890
+3	558 m^3	0.1792	Oakland	Oakland, San Bernardino, Moreno Valley	Vani	1.0705	717	?	285 N	Chris	328
+3	763 m^3	0.3827	Irvine	San Bernardino, Long Beach, Chula Vista	Vani	0.9148	664	255	422 N	Chris	265
+3	813 m^3	0.2	Irvine	long beach	Vani	1.1787	828	402	576 N	Chris	239
+2	922 m^3	0.6707	Los Angeles	Fremont	Reilly	0.6792	87	308	809 N	Lise	652
+0	1054 m^3	0.4429	Anaheim	Los Angeles	Eriq	0.6643	793	83	829 N	Reilly	112
+0	1005 m^3	0.5571	Sacramento	Fresno, San Jose	Michael	0.6995	431	569	615 N	Fabrice	100
+0	980 m^3	0.3293	San Jose	Stockton, San Jose	Eriq	0.351	482	?	839 N	Fabrice	121
+2	707 m^3	0.8482	Modesto	sACRAMENTO, sANTA aNA	Reilly	n/a	616	-6	854 N	Lise	971
+5	280 m^3	0.4502	San Francisco	Fresno, Stockton	Sam	0.2729	296	1039	299 N	Eriq	487
+0	870 m^3	0.625	Anaheim	Stockton, Fresno	Michael	0.6633	493	121	785 N	Fabrice	224
+2	870 m^3	0.9093	LOS ANGELES	Sacramento, Santa Ana	Fabrice	0.5685	-57	-52	1139 N	Lise	951
+1	157 m^3	0.0232	Long Beach	San Diego, Anaheim, Santa Clarita	Inan	0.7401	864	567	240 N	Inan	47
+2	710 m^3	0.916	Modesto	Santa Ana, Sacramento	Reilly	0.527	297	-221	743 N	Lise	974
+1	134 m^3	-0.128	Chula Vista	San Diego, Santa Clarita, Modesto, Bakersfield	Andrew	0.972	731	569	410 N	Inan	421
+5	332 m^3	0.4133	SAN FRANCISCO	sAN fRANCISCO	Sam	0.3357	70	1035	610 N	Eriq	750
+5	714 m^3	0.3761	Oakland	San Francisco	Sam	0.3921	-49	819	354 N	Tony	479
+4	185 m^3	0.8558	Fresno	Stockton, Fresno	Chris	0.0725	753	389	129 N	Tony	783
+3	578 m^3	0.3743	Fremont	Chula Vista, Long Beach, Moreno Valley	Vani	0.9826	1176	460	363 N	Chris	324
+2	792 m^3	NULL	Santa Clarita	Irvine, Fremont, Sacramento	None	0.5194	213	171	1086 N	Lise	939
+2	889 m^3	0.9757	Modesto	Santa Ana	Fabrice	0.495	99	13	820 N	Lise	1095
+5	626 m^3	0.4295	Fresno	San Francisco	Sam	0.3087	83	992	497 N	Eriq	273
+3	332 m^3	0.2954	Fremont	Moreno Valley, Long Beach, Oakland	Vani	0.9827	605	273	519 N	Chris	78
+4	173 m^3	0.6423	fRESNO	Riverside	Chris	0.1002	179	740	-41 N	Michael	893
+1	110 m^3	-0.2059	Long Beach	Bakersfield	Andrew	0.939	793	534	423 N	Sam	516
+1	-66 m^3	0.1347	Chula Vista	Modesto	Inan	1.0103	1069	395	218 N	sam	348
+0	1171 m^3	0.4171	San Diego	San Francisco	Eriq	0.1846	509	324	716 N	Vani	356
+3	600 m^3	0.4833	Irvine	Bakersfield, Anaheim	Vani	1.1679	894	N/A	665 N	Chris	297
+0	792 m^3	0.6799	Sacramento	San Jose	Michael	0.5628	448	230	981 N	Vani	170
+0	674 m^3	0.4607	Santa Ana	Fresno, Stockton	Eriq	0.5437	500	390	758 N	Andrew	74
+0	1118 m^3	0.6494	Sacramento	Stockton, San Jose	Michael	0.24	514	355	669 N	Reilly	48
+4	412 m^3	0.9577	San Bernardino	San Jose	Lise	0.3228	313	773	124 N	Michael	1008
+3	487 m^3	0.2806	Irvine	Oakland	vANI	0.9836	780	356	749 N	Chris	177
+4	-26 m^3	0.6349	San Bernardino	Los Angeles	Lise	0.118	817	804	149 N	Tony	799
+4	261 m^3	0.6656	San Jose	Riverside	Lise	0.1696	515	664	156 N	iNAN	1108
+5	633 m^3	0.344	MORENO VALLEY	San Francisco	Sam	0.2941	271	955	258 N	Eriq	515
+1	-24 m^3	-0.042	Bakersfield	Bakersfield, Modesto, San Diego, Anaheim	Inan	1.1234	788	255	151 N	Sam	443
+0	1086 m^3	0.6919	Sacramento	Stockton, San Jose	Eriq	0.2909	414	161	709 N	Reilly	186
+3	564 m^3	0.2041	Santa Ana	Long Beach	Vani	0.9162	673	426	405 N	Chris	173
+3	733 m^3	0.3583	Fremont	Chula Vista, Long Beach, Moreno Valley, San Bernardino	Vani	1.1087	678	420	731 N	Chris	-44
+2	792 m^3	0.9051	Santa Ana	Sacramento, Fremont, Santa Ana	Fabrice	0.6537	118	182	633 N	Lise	726
+4	41 m^3	0.7633	Fresno	Los Angeles	Lise	-0.0337	819	829	267 N	Michael	904
+4	164 m^3	0.5695	Fresno	Riverside	Lise	0.1611	679	844	369 N	Michael	810
+0	1269 m^3	0.5458	Sacramento	San Jose, Stockton	Eriq	0.5935	390	6	NULL	Vani	148
+2	753 m^3	0.7459	Santa Clarita	Santa Ana, Fremont, Irvine	Fabrice	0.5472	337	-9	781 N	Lise	998
+1	41 m^3	-0.062	Bakersfield	Modesto, Bakersfield	Inan	0.8626	836	576	514 N	Sam	308
+1	35 m^3	-0.0255	Chula Vista	Anaheim, Bakersfield, San Diego, Modesto	Inan	0.795	1093	605	314 N	Sam	571
+2	859 m^3	0.8249	Los Angeles	San Francisco	Reilly	0.4568	293	61	998 N	Lise	796
+0	853 m^3	0.4524	Sacramento	Fresno	Eriq	0.2452	423	171	618 N	vani	78
+0	899 m^3	0.4877	Sacramento	San Jose, Stockton	Michael	0.705	709	247	931 N	Reilly	60
+2	836 m^3	0.842	Modesto	Santa Ana, Fremont, Sacramento	Fabrice	0.4097	328	113	872 N	Lise	1035
+0	973 m^3	0.5683	Sacramento	Stockton, Fresno	Eriq	0.62	483	276	744 N	Reilly	434
+3	639 m^3	0.2419	Fremont	Irvine, Fremont	Vani	0.7564	515	335	509 N	Tony	202
+5	352 m^3	0.2643	OAKLAND	San Francisco	Sam	0.183	275	672	716 N	Eriq	415
+4	344 m^3	0.6064	San Bernardino	Riverside	Tony	-0.1895	-9	965	114 N	tONY	712
+4	225 m^3	0.548	San Jose	Los Angeles	Tony	0.0677	365	787	65 N	Michael	945
+4	43 m^3	0.7566	Fresno	Riverside	Chris	0.1952	661	870	68 N	Michael	779
+0	1058 m^3	0.557	Stockton	Fresno	Michael	0.4419	633	389	724 N	Fabrice	266
+0	835 m^3	0.7308	Anaheim	Los Angeles	Michael	0.3751	497	-46	694 N	REILLY	412
+4	307 m^3	0.7832	Fresno	Los Angeles	Chris	0.0139	403	919	360 N	Michael	923
+0	983 m^3	0.6472	Sacramento	Fresno	Michael	0.3756	436	46	632 N	Vani	109
+4	163 m^3	0.6365	San Jose	Los Angeles	Lise	0.1478	722	685	-47 N	Tony	819
+4	164 m^3	0.5441	San Jose	Riverside	Lise	0.2823	870	735	173 N	Michael	926
+3	435 m^3	0.234	Fremont	Long Beach, Oakland, Moreno Valley, San Bernardino	Vani	1.0633	776	378	361 N	Chris	354
+3	763 m^3	0.4616	Irvine	Moreno Valley, San Bernardino	Vani	1.0364	660	203	489 N	Chris	16
+1	324 m^3	-0.0461	Bakersfield	San Diego, Santa Clarita	Inan	0.746	665	326	240 N	Sam	554
+5	718 m^3	0.5211	San Francisco	San Francisco	Andrew	0.4111	90	1105	362 N	Eriq	623
+3	600 m^3	0.5655	Irvine	Chula Vista	Vani	0.9881	978	470	311 N	Sam	61
+5	474 m^3	0.1533	Riverside	San Francisco	Vani	0.3926	-19	949	478 N	Eriq	555
+0	971 m^3	0.4543	Anaheim	San Jose	Michael	0.1707	334	83	727 N	Fabrice	253
+3	650 m^3	0.1753	?	Long Beach, Moreno Valley, Chula Vista, Oakland	Vani	0.8575	686	678	677 N	Chris	31
+5	413 m^3	0.3312	Moreno Valley	San Francisco	Sam	0.366	231	909	442 N	Eriq	733
+0	862 m^3	0.5687	Anaheim	Stockton, Fresno	Michael	0.5796	193	-1	756 N	Andrew	208
+5	565 m^3	0.275	Riverside	San Francisco	Sam	0.6766	160	882	667 N	Eriq	555
+4	107 m^3	0.7094	San Jose	Riverside	Lise	0.1336	575	799	-30 N	Michael	917
+0	902 m^3	0.6595	San Diego	Stockton	Eriq	0.5149	584	210	799 N	Reilly	269
+0	1079 m^3	0.6953	Chula Vista	Fresno	Michael	0.5802	599	231	?	vani	9
+0	1087 m^3	0.4815	Anaheim	Stockton	Michael	0.5219	714	7	828 N	Andrew	244
+5	551 m^3	0.3875	Moreno Valley	San Francisco	Sam	0.367	52	871	383 N	Eriq	425
+2	693 m^3	0.7833	Santa Ana	Fremont, Santa Ana, Sacramento	Reilly	0.5438	297	77	977 N	Lise	596
+2	829 m^3	0.8623	Santa Ana	Sacramento, Irvine, Santa Ana	Reilly	0.6308	398	62	1031 N	Lise	735
+1	-99 m^3	-0.0494	Chula Vista	Santa Clarita, Modesto, Anaheim, Bakersfield	andrew	0.8744	812	231	134 N	Sam	504
+2	874 m^3	1.0576	Modesto	Fremont	Reilly	0.5004	130	182	540 N	Lise	947
+2	910 m^3	0.7608	Santa Ana	San Diego	Reilly	0.3491	231	110	829 N	Lise	902
+0	1307 m^3	0.4153	sTOCKTON	Stockton	michael	0.3961	582	52	511 N	Reilly	73
+4	179 m^3	0.7494	Fresno	Riverside	Tony	0.1545	804	802	148 N	Tony	906
+2	646 m^3	0.9706	Santa Clarita	Santa Ana, Fremont, Irvine	Reilly	0.7235	224	284	940 N	Lise	1137
+5	508 m^3	0.393	Moreno Valley	san francisco	Sam	0.2873	269	808	389 N	Eriq	530
+3	611 m^3	0.4167	Fremont	Chula Vista, Moreno Valley	Vani	0.7509	1004	375	162 N	Chris	145
+3	467 m^3	0.4259	Irvine	Moreno Valley	Vani	0.9648	721	180	423 N	Chris	120
+1	-12 m^3	-0.0782	Long Beach	Modesto	Inan	0.6333	756	575	112 N	Sam	377
+4	150 m^3	NULL	Fresno	Los Angeles	Chris	0.0267	386	504	162 N	sam	931
+4	145 m^3	0.8339	Fresno	Riverside	Tony	-0.1345	704	579	119 N	Michael	1016
+5	476 m^3	0.606	Riverside	San Francisco	Sam	0.6084	-166	731	571 N	Eriq	576
+4	124 m^3	0.8643	San Bernardino	Santa Ana, Irvine	Chris	0.2038	519	n/a	259 N	Michael	923
+3	785 m^3	0.3645	Irvine	Chula Vista	Vani	1.0804	912	420	472 N	Chris	393
+3	612 m^3	0.6993	Fremont	San Bernardino, Long Beach, Chula Vista, Moreno Valley	Vani	0.836	999	312	639 N	Chris	109
+4	263 m^3	0.7444	Fresno	Los Angeles	Tony	-0.0212	687	641	5 N	Michael	795
+4	339 m^3	0.8071	San Jose	Riverside	Tony	-0.0102	388	612	-44 N	Tony	806
+5	511 m^3	0.2215	Riverside	San Francisco	Sam	0.2663	106	863	342 N	Eriq	447
+4	380 m^3	0.6182	San Bernardino	Bakersfield, San Diego, Santa Clarita	Tony	0.2019	8	634	73 N	Reilly	752
+3	618 m^3	0.2301	Irvine	Oakland, Chula Vista, San Bernardino, Moreno Valley	Vani	0.8133	647	374	564 N	Chris	205
+2	912 m^3	0.8089	Santa Ana	Fremont	Fabrice	0.7427	-118	337	780 N	Lise	913
+1	23 m^3	-0.1275	Bakersfield	Bakersfield	Inan	0.7884	1166	693	499 N	Inan	397
+5	455 m^3	0.4127	Irvine	San Francisco	Sam	0.3466	218	844	732 N	Eriq	536
+2	641 m^3	0.8847	Modesto	Santa Ana, Fremont, Irvine	Fabrice	0.4602	467	212	1047 N	Lise	766
+3	484 m^3	0.3045	Fremont	Moreno Valley, Oakland	Vani	0.6792	836	370	730 N	Chris	323
+5	664 m^3	0.3838	San Francisco	San Francisco	Sam	0.2453	-104	1005	448 N	Eriq	558
+2	680 m^3	0.9607	Modesto	Fremont, Santa Ana, Sacramento	Fabrice	0.6874	511	63	958 N	Lise	1012
+0	968 m^3	0.5925	Stockton	San Jose, Fresno	Eriq	0.4178	653	350	624 N	Fabrice	63
+0	970 m^3	0.6889	San Diego	Fresno, San Jose	Eriq	0.2538	617	143	912 N	Vani	319
+1	129 m^3	0.2651	Long Beach	Modesto, Santa Clarita, Anaheim	Andrew	0.7189	786	446	213 N	Sam	559
+5	665 m^3	0.3913	Moreno Valley	San Francisco	Sam	0.2875	144	982	660 N	Eriq	657
+1	24 m^3	-0.0949	Long Beach	San Diego, Santa Clarita, Bakersfield	NULL	0.9028	943	841	121 N	sAM	333
+1	78 m^3	-0.0811	Long Beach	Santa Clarita, Bakersfield	Andrew	1.0272	1075	456	422 N	Inan	357
+3	526 m^3	0.3156	Fremont	Oakland, San Bernardino	Vani	0.8942	888	436	809 N	Chris	243
+5	419 m^3	0.3913	San Francisco	San Francisco	Sam	0.117	58	1000	647 N	Eriq	810
+1	27 m^3	0.1776	Oakland	Modesto, Santa Clarita	Andrew	0.7988	1052	427	181 N	Sam	462
+4	238 m^3	0.7604	San Jose	Los Angeles	Lise	0.247	586	854	-42 N	Tony	888
+1	-37 m^3	-0.0168	Bakersfield	Santa Clarita, Bakersfield, Anaheim	Andrew	0.6328	919	711	287 N	Inan	517
+0	1132 m^3	0.4595	San Diego	San Jose	Michael	0.564	551	406	736 N	Andrew	68
+3	499 m^3	0.4977	Irvine	San Bernardino, Chula Vista	Vani	1.0278	563	361	569 N	Chris	355
+1	30 m^3	0.0374	Bakersfield	Santa Clarita	Andrew	0.6031	680	479	204 N	Sam	477
+3	681 m^3	0.247	Irvine	Chula Vista	Vani	1.0782	752	432	759 N	Chris	-33
+1	-180 m^3	0.0391	Bakersfield	San Diego, Bakersfield	Andrew	0.8966	1064	607	300 N	Sam	567
+3	499 m^3	0.4593	Irvine	San Bernardino	Michael	0.8125	994	526	654 N	Chris	221
+3	530 m^3	-0.0306	Irvine	Chula Vista, Long Beach, Moreno Valley, Oakland	Vani	0.865	765	614	553 N	Chris	136
+1	-215 m^3	-0.0926	Long Beach	Santa Clarita, Modesto	Andrew	0.6726	673	670	355 N	Sam	476
+4	346 m^3	0.8981	SAN JOSE	Riverside	Lise	0.3343	749	701	-97 N	Michael	794
+0	1013 m^3	0.4935	aNAHEIM	San Jose, Stockton	Eriq	0.1752	370	294	811 N	Reilly	90
+4	391 m^3	0.5883	San Bernardino	Los Angeles	Chris	0.2672	609	716	174 N	Michael	660
+2	919 m^3	1.0827	Santa Ana	Santa Ana, Fremont, Irvine	Fabrice	0.598	341	25	821 N	Lise	814
+4	353 m^3	0.864	San Bernardino	Riverside	Tony	0.1657	355	728	313 N	Tony	900
+4	242 m^3	0.8182	San Jose	Riverside	Tony	0.0635	434	811	-13 N	Tony	927
+5	345 m^3	0.2491	Oakland	San Francisco	Sam	0.3264	275	849	290 N	Eriq	526
+0	883 m^3	0.5606	Stockton	Stockton, Fresno		0.3171	678	211	600 N	Fabrice	182
+2	839 m^3	0.8332	Santa Ana	iRVINE	Inan	0.5577	130	10	737 N	Lise	1018
+3	826 m^3	0.3501	Fremont	Long Beach	Vani	1.1382	884	544	458 N	Chris	-71
+1	-109 m^3	0.0147	Bakersfield	Modesto	Andrew	0.8835	918	753	242 N	Sam	451
+5	324 m^3	0.5293	Oakland	San Francisco	Andrew	0.3913	-16	887	722 N	Eriq	578
+1	37 m^3	-0.0376	Chula Vista	Anaheim, Modesto, San Diego	Inan	1.0122	771	714	239 N	Sam	331
+1	-188 m^3	-0.0619	Bakersfield	San Diego, Modesto, Bakersfield, Anaheim	Andrew	0.9654	1058	537	-139 N	Inan	345
+3	549 m^3	0.1276	Irvine	Long Beach	Vani	1.0037	897	590	480 N	Chris	-13
+3	557 m^3	0.4079	Fremont	Chula Vista, Moreno Valley	Lise	0.9006	942	265	312 N	Chris	417
+2	745 m^3	0.8637	Modesto	Santa Ana	Fabrice	0.552	-187	123	899 N	Lise	1058
+5	551 m^3	0.4247	San Francisco	San Francisco	Sam	0.3912	2	884	465 N	Eriq	929
+0	1087 m^3	0.7147	Stockton	Fresno, Stockton	Eriq	0.5217	472	233	898 N	Andrew	319
+3	557 m^3	0.5492	Fremont	Moreno Valley, Long Beach, San Bernardino, Oakland	Vani	0.8795	668	627	576 N	Chris	70
+5	303 m^3	0.4902	Riverside	San Francisco	Sam	0.3519	213	699	709 N	Eriq	501
+5	229 m^3	0.4038	San Francisco	San Francisco	Sam	0.3231	8	877	402 N	Eriq	522
+2	1007 m^3	0.9922	Santa Ana	Sacramento, Irvine, Santa Ana	Fabrice	0.4844	125	-5	706 N	Lise	1045
+0	881 m^3	0.6662	San Diego	fRESNO, sTOCKTON	Michael	0.4613	204	195	718 N		53
+1	-147 m^3	-0.0847	Santa Ana	Bakersfield, Modesto, Anaheim	Inan	0.6171	877	648	257 N	Inan	472
+2	815 m^3	0.7287	Irvine	Irvine, Santa Ana, Sacramento	Reilly	0.5808	176	149	705 N	LISE	748
+2	832 m^3	0.8185	San Jose	Moreno Valley	Fabrice	0.9124	148	148	778 N	Lise	823
+3	682 m^3	0.2308	Irvine	San Bernardino, Long Beach	Vani	0.8536	772	406	673 N	Chris	162
+2	772 m^3	0.8388	Santa Clarita	Santa Ana	Reilly	0.62	-59	103	1048 N	Lise	922
+0	960 m^3	0.6274	San Diego	Stockton, Fresno	Michael	0.4411	628	-58	1060 N	Reilly	86
+3	?	0.3162	Fremont	Chula Vista, Long Beach, Oakland	n/a	0.9736	894	571	498 N	Chris	115
+0	1138 m^3	0.5242	San Diego	Fresno	Michael	0.632	640	158	929 N	Reilly	182
+0	952 m^3	0.6423	Los Angeles	Stockton	Michael	0.7054	774	313	655 N	Fabrice	-26
+1	-254 m^3	0.0841	Bakersfield	Stockton	Inan	0.8366	1008	531	291 N	Sam	368
+1	68 m^3	-0.0862	Chula Vista	Santa Clarita, Modesto, San Diego	Inan	1.1579	763	377	442 N	Inan	369
+0	780 m^3	0.5539	Stockton	Sacramento	Michael	0.4703	476	267	642 N	Fabrice	162
+3	882 m^3	0.2345	fremont	Long Beach	Vani	0.9336	715	152	727 N	Chris	265
+3	675 m^3	0.4458	Irvine	Long Beach, Chula Vista, Moreno Valley	Vani	0.7648	1052	274	790 N	Chris	208
+4	299 m^3	0.6391	San Bernardino	Irvine	Chris	0.4034	595	919	182 N	Michael	909
+3	567 m^3	0.3676	Irvine	Los Angeles	Vani	0.8713	1216	331	428 N	Chris	102
+3	495 m^3	0.2927	Fremont	San Bernardino, Oakland, Long Beach, Chula Vista	Vani	0.6925	704	393	330 N	Chris	188
+4	261 m^3	0.779	San Jose	Los Angeles	Lise	0.4053	805	592	54 N	Tony	839
+4	229 m^3	0.7703	San Jose	Los Angeles	Lise	0.042	426	891	72 N	Tony	830
+0	925 m^3	0.5973	Sacramento	Stockton, Fresno	Eriq	0.6777	431	200	698 N	Fabrice	556
+1	-233 m^3	0.006	Chula Vista	Bakersfield	Inan	0.8672	841	475	260 N	Chris	369
+2	711 m^3	0.7694	Santa Ana	Sacramento, Santa Ana, Irvine	Eriq	0.8134	423	91	1011 N	Lise	1227
+5	350 m^3	0.4351	San Francisco	?	Sam	0.1299	8	879	476 N	Eriq	635
+2	672 m^3	0.7566	Modesto	Sacramento, Fremont, Irvine	Fabrice	0.7271	433	30	885 N	Lise	827
+0	N/A	0.9005	San Diego	San Jose	Michael	0.4764	377	31	523 N	VANI	1
+0	897 m^3	0.7119	Stockton	Fresno, Stockton	Eriq	0.46	490	-71	652 N	Vani	273
+2	797 m^3	0.5831	Modesto	Irvine	Reilly	0.7159	510	-149	803 N	Lise	886
+5	299 m^3	0.3124	Riverside	SAN FRANCISCO	Sam	0.2073	208	950	485 N	Eriq	571
+3	416 m^3	0.4179	Fremont	Moreno Valley, San Bernardino	Vani	0.803	911	329	622 N	Chris	113
+1	109 m^3	0.182	Long Beach	Bakersfield	Andrew	0.7861	578	561	317 N	Sam	558
+4	221 m^3	0.5776	Fresno	Riverside	Lise	0.1219	404	736	77 N	Tony	916
+2	863 m^3	0.7811	Los Angeles	Irvine, Santa Ana	Fabrice	0.6336	585	230	865 N	lISE	1213
+4	272 m^3	0.8427	Long Beach	Riverside	Lise	0.2501	601	815	59 N	Michael	873
+3	693 m^3	0.3881	Irvine	Long Beach, San Bernardino, Oakland	Vani	0.9667	832	418	817 N	Chris	168
+2	813 m^3	0.8138	Los Angeles	Irvine, Fremont	Reilly	0.4911	442	-140	1037 N	Lise	875
+3	658 m^3	0.2362	Fremont	Oakland, Long Beach	Vani	1.206	553	222	632 N	Chris	474
+5	686 m^3	0.3149	San Francisco	sAN fRANCISCO	Sam	0.4474	259	759	454 N	Eriq	467
+4	159 m^3	0.9457	SAN JOSE	Los Angeles	CHRIS	0.1882	674	754	184 N	Tony	976
+0	1140 m^3	0.5858	Stockton	San Jose	Michael	0.5082	689	121	671 N	Andrew	346
+2	774 m^3	0.8697	Santa Clarita	Irvine, Santa Ana	Reilly	0.4541	535	10	800 N	Lise	957
+2	545 m^3	0.8277	Santa Clarita	Irvine, Santa Ana, Sacramento	Fabrice	0.6339	191		800 N	Lise	1081
+4	217 m^3	0.8245	San Bernardino	Riverside	Tony	0.2261	585	727	-75 N	mICHAEL	1097
+0	716 m^3	0.3673	Sacramento	Fresno	Michael	0.5477	608	86	802 N	Reilly	-44
+1	169 m^3	-0.0907	Chula Vista	Anaheim, Santa Clarita, San Diego, Bakersfield	Andrew	0.8766	1062	405	284 N	Sam	315
+2	615 m^3	0.872	Los Angeles	Santa Ana, Fremont	Fabrice	0.9361	106	388	963 N	Lise	1025
+0	974 m^3	0.5018	Irvine	Fresno, Stockton	Michael	0.4261	601	201	807 N	Vani	233
+2	874 m^3	0.9174	Los Angeles	Irvine, Santa Ana	Fabrice	0.5713	168	23	760 N	Lise	1039
+5	564 m^3	0.1065	Oakland	San Francisco	Sam	0.0757	-68	1081	425 N	Eriq	608
+0	857 m^3	0.6599	Anaheim	San Jose, Fresno	Michael	0.417	222	374	676 N	Vani	-24
+2	885 m^3	0.9307	Modesto	Riverside	Reilly	0.7071	161	-106	905 N	Lise	775
+4	151 m^3	0.9057	San Jose	Riverside	Chris	0.2345	481	988	-36 N	Tony	772
+1	-55 m^3	-0.0767	Long Beach	n/a	andrew	0.6876	923	675	225 N	Inan	443
+5	374 m^3	0.5052	Oakland	San Francisco	Sam	0.3043	200	963	400 N	Eriq	474
+1	21 m^3	-0.2402	Long Beach	Santa Clarita	Inan	0.7483	913	569	169 N	Inan	631
+5	341 m^3	0.1432	Moreno Valley	San Francisco	Sam	0.26	233	872	562 N	Eriq	357
+1	-20 m^3	-0.1472	Chula Vista	Anaheim, San Diego	Andrew	0.8853	868	436	-58 N	Sam	319
+4	84 m^3	0.8109	Fresno	Los Angeles	Tony	-0.0941	544	1014	376 N	Michael	709
+3	675 m^3	0.4103	iRVINE	Oakland	Vani	0.8983	497	435	419 N	Chris	36
+5	322 m^3	0.4688	Moreno Valley	San Francisco	Sam	0.3773	40	None	807 N	Eriq	460
+1	132 m^3	0.1581	Bakersfield	Anaheim, Bakersfield, San Diego, Santa Clarita	Andrew	0.6593	1097	833	243 N	Sam	173
+3	473 m^3	0.3312	Irvine	Long Beach, Moreno Valley, Oakland	Vani	0.7759	684	441	671 N	Chris	-36
+4	192 m^3	0.8584	San Jose	Riverside	Lise	0.1218	580	711	225 N	Michael	795
+0	946 m^3	0.5757	San Diego	Chula Vista	Eriq	0.6665	754	210	699 N	Vani	94
+1	208 m^3	0.0351	Bakersfield	Bakersfield, Anaheim, San Diego, Modesto	Inan	0.8942	856	345	237 N	Sam	424
+3	724 m^3	0.1362	Fremont	San Francisco	Vani	0.8134	951	229	464 N	Chris	133
+2	574 m^3	0.823	Los Angeles	Santa Ana, Sacramento, Fremont	Fabrice	0.5829	170	-47	692 N	Lise	1225
+2	520 m^3	0.8717	Santa Ana	Sacramento, Santa Ana, Fremont	Reilly	0.5163	150	-152	807 N	Lise	975
+0	891 m^3	0.479	San Diego	Fresno, Stockton	Eriq	0.4382	682	268	752 N	Vani	269
+3	688 m^3	0.1752	Irvine	Oakland, Chula Vista, Moreno Valley	Vani	1.03	745	474	456 N	Chris	31
+4	175 m^3	0.825	Fresno	Riverside	Michael	-0.1386	775	654	353 N	Michael	844
+2	726 m^3	0.9382	Modesto	Fremont	Fabrice	0.6906	195	-146	740 N	Lise	1036
+2	934 m^3	0.8487	Modesto	Irvine	Fabrice	0.5602	345	-60	996 N	Lise	927
+3	681 m^3	0.1357	Fremont	Long Beach	Vani	1.0853	713	28	378 N	Chris	146
+1	60 m^3	-0.1011	Bakersfield	San Diego, Modesto, Bakersfield, Anaheim	Inan	0.8356	986	693	109 N	Inan	161
+4	313 m^3	0.6627	San Jose	Los Angeles	Tony	0.3166	256	890	102 N	Tony	837
+4	323 m^3	0.7388	Irvine	Los Angeles	Chris	0.2721	436	943	224 N	Tony	756
+1	35 m^3	-0.1009	Long Beach	Anaheim	Andrew	0.8027	1076	391	478 N	Sam	344
+3	551 m^3	0.5055	Fremont	Long Beach, Oakland, Moreno Valley, Chula Vista	Vani	1.0731	560	601	538 N	Chris	190
+1	-163 m^3	0.0443	N/A	Modesto, San Diego	inan	0.7851	1102	603	422 N	Sam	537
+1	19 m^3	-0.0764	Bakersfield	SAN DIEGO, ANAHEIM	Inan	1.0838	914	601	325 N	inan	335
+0	855 m^3	0.7099	Anaheim	Fresno, Stockton	Eriq	0.3514	546	-63	1062 N	Vani	126
+5	329 m^3	0.3148	Moreno Valley	San Francisco	Sam	0.3544	11	958	738 N	Eriq	468
+1	-83 m^3	-0.1269	Bakersfield	Anaheim, Santa Clarita, Modesto	Inan	0.5737	750	795	260 N	Sam	479
+5	574 m^3	0.3887	San Francisco	San Diego, Bakersfield, Modesto, Anaheim	Sam	None	86	863	355 N	Eriq	742
+0	1040 m^3	0.6562	Anaheim	San Jose, Fresno	INAN	0.4659	647	-44	1076 N	Fabrice	316
+0	979 m^3	0.8421	Stockton	San Jose	Michael	0.4153	335	89	968 N	Fabrice	186
+4	-266 m^3	0.7109	San Bernardino	lOS aNGELES	Tony	0.1487	560	932	135 N	Tony	814
+0	1192 m^3	0.7373	Stockton	Stockton, Fresno	Michael	0.5145	703	263	811 N	Andrew	76
+0	1067 m^3	0.6341	Sacramento	San Jose	Eriq	0.7633	438	78	486 N	Andrew	207
+1	47 m^3	0.1076	BAKERSFIELD	Anaheim, Santa Clarita, San Diego, Modesto	Inan	0.6886	893	422	157 N	Inan	611
+1	50 m^3	-0.0703	Bakersfield	Modesto	Andrew	0.8728	654	540	205 N	Inan	488
+4	163 m^3	0.7467	San Bernardino	Riverside	lISE	0.0099	157	857	289 N	Tony	823
+0	886 m^3	0.6537	Sacramento	Fresno	Michael	0.3007	447	231	872 N	Vani	148
+1	-4 m^3	-0.0959	Bakersfield	Modesto	Andrew	0.5395	1170	469	456 N	Sam	326
+3	519 m^3	0.4491	Anaheim	Moreno Valley, San Bernardino, Chula Vista	Vani	0.7609	835	515	508 N	Chris	156
+2	719 m^3	0.6657	Santa Clarita	Irvine, Fremont, Santa Ana	Fabrice	0.5573	640	-204	1073 N	Michael	758
+2	942 m^3	0.9962	Los Angeles	Irvine, Fremont, Santa Ana	Fabrice	0.5177	134	155	1187 N	Lise	842
+0	1018 m^3	0.6239	Sacramento	Fresno	Eriq	0.483	368	None	928 N	Fabrice	107
+0	864 m^3	0.4584	Anaheim	Fresno	Eriq	0.633	802	193	622 N	Vani	165
+5	392 m^3	0.3879	oakland	Stockton	Sam	0.3912	198	1037	334 N	Eriq	506
+3	552 m^3	0.4316	Irvine	Chula Vista	Vani	0.7931	695	255	580 N	Chris	217
+3	729 m^3	0.2369	Fremont	San Bernardino, Long Beach, Oakland	Vani	0.7836	976	387	880 N	Chris	177
+4	443 m^3	0.6802	Fresno	Riverside	Chris	0.0407	764	779	312 N	Michael	674
+3	530 m^3	0.3403	Irvine	San Bernardino	Vani	0.8462	792	539	439 N	Chris	166
+1	250 m^3	0.0269	Bakersfield	Bakersfield, San Diego, Santa Clarita	Andrew	0.8106	1097	438	180 N	Inan	427
+3	656 m^3	0.1225	Fremont	Chula Vista	Vani	0.8595	965	266	680 N	Chris	54
+4	429 m^3	0.563	N/A	Riverside	Lise	0.052	NULL	548	241 N	Tony	760
+4	212 m^3	0.763	Fresno	Los Angeles	Tony	0.2153	633	1044	47 N	Tony	862
+5	507 m^3	0.3434	Riverside	San Francisco	Sam	0.2267	73	857	214 N	Eriq	517
+4	481 m^3	0.9953	Fresno	Los Angeles	lISE	0.2604	534	816	226 N	Tony	811
+5	660 m^3	0.5343	Moreno Valley	San Francisco	Sam	0.2976	246	1060	401 N	Inan	553
+3	564 m^3	0.5176	Fremont	Long Beach	Vani	1.0701	840	332	431 N	Chris	258
+2	810 m^3	0.6717	Santa Clarita	Irvine	Fabrice	0.5541	176	172	694 N	Lise	1091
+1	-190 m^3	0.0609	Long Beach	San Diego, Bakersfield, Santa Clarita, Modesto	Andrew	0.8834	693	661	98 N	Tony	309
+4	71 m^3	0.6603	San Jose	Riverside	Chris	0.0808	895	866	285 N	None	820
+2	784 m^3	0.9768	Los Angeles	Santa Ana, Sacramento	Fabrice	0.6903	-20	-234	828 N	Lise	1075
+1	-98 m^3	0.1032	Chula Vista	San Diego, Bakersfield, Santa Clarita	Inan	0.9044	893	588	295 N	Sam	558
+3	701 m^3	0.3248	Irvine	Oakland, Chula Vista	vani	0.9875	982	384	589 N	Chris	-92
+3	469 m^3	0.4514	Fremont	Long Beach, Chula Vista, Moreno Valley, Oakland	Vani	0.6481	854	304	555 N	Chris	187
+5	322 m^3	0.3939	Riverside	san francisco	Inan	0.0352	-17	963	205 N	Eriq	481
+1	-91 m^3	-0.0314	Long Beach	Anaheim	Inan	0.4754	775	503	415 N	Eriq	497
+0	1056 m^3	0.6254	Fremont	Stockton	Eriq	0.7783	342	43	360 N	Andrew	287
+5	540 m^3	0.2874	San Francisco	San Francisco	Sam	?	19	1015	202 N	Eriq	616
+2	620 m^3	0.8522	Santa Ana	Irvine	Fabrice	0.5891	223	263	890 N	Lise	821
+1	98 m^3	0.1778	Long Beach	Santa Clarita, San Diego, Modesto	Andrew	0.7985	615	309	-98 N	Inan	373
+5	566 m^3	0.4635	Oakland	San Francisco	Sam	0.5479	71	1117	271 N	Eriq	553
+3	351 m^3	0.2809	Fremont	San Bernardino	Vani	1.0428	732	474	568 N	Chris	-23
+3	605 m^3	0.4551	Fremont	Moreno Valley, San Bernardino, Long Beach, Oakland	Vani	0.9624	909	249	587 N	Chris	230
+3	366 m^3	0.4238	Irvine	Long Beach, Chula Vista, Moreno Valley	Vani	0.9359	923	484	579 N	Chris	118
+3	717 m^3	0.2478	iRVINE	Oakland, Long Beach	vani	n/a	1100	269	697 N	Chris	242
+1	74 m^3	-0.129	Fremont	San Diego	Inan	0.9082		494	319 N	Inan	270
+3	546 m^3	0.3732	Irvine	Chula Vista	Vani	0.9809	1017	212	604 N	Chris	122
+5	350 m^3	0.4913	Moreno Valley	San Francisco	Sam	0.1511	-129	971	626 N	Eriq	621
+0	907 m^3	0.7391	Stockton	Fresno, San Jose	Michael	0.5425	658	-1	847 N	Fabrice	224
+0	1001 m^3	0.5038	Stockton	San Jose	Michael	0.5232	432	290	773 N	Andrew	168
+2	791 m^3	0.7052	Santa Ana	Santa Ana, Fremont	Reilly	0.5686	311	-62	917 N	Lise	1214
+4	365 m^3	0.7586	San Bernardino	Riverside	Lise	0.2337	479	539	277 N	Michael	656
+0	1056 m^3	0.5342	Sacramento	San Jose	Michael	0.269	379	244	719 N	Reilly	120
+5	147 m^3	0.2967	Riverside	San Francisco	Sam	0.1308	100	971	426 N	Eriq	614
+2	768 m^3	0.8051	Santa Clarita	Fremont, Irvine	Fabrice	0.7436	67	110	775 N	Lise	827
+4	252 m^3	0.7863	Sacramento	Riverside	Chris	0.002	553	424	156 N	Michael	706
+2	787 m^3	0.9106	Santa Ana	Irvine, Sacramento	Fabrice	0.2012	5	-39	997 N	Lise	1001
+2	798 m^3	0.9231	Los Angeles	Sacramento	Fabrice	0.5551	143	-96	819 N	Lise	1007
+1	80 m^3	0.1467	Long Beach	Santa Clarita, Anaheim	Inan	0.7646	500	603	362 N	Inan	425
+1	-1 m^3	-0.0722	Bakersfield	Modesto, San Diego	Inan	0.7624	924	831	121 N	Inan	462
+5	286 m^3	0.2407	Moreno Valley	Fresno	Sam	0.2744	-110	969	385 N	Eriq	752
+1	108 m^3	-0.0208	Long Beach	Anaheim, Bakersfield, Santa Clarita	Andrew	0.7758	1047	662	132 N	Inan	392
+3	760 m^3	0.2873	Fremont	San Bernardino, Moreno Valley	Vani	1.0323	814	679	480 N	Chris	196
+1	4 m^3	0.0557	Chula Vista	Modesto, Bakersfield	Inan	0.7458	953	427	345 N	Inan	342
+0	1028 m^3	0.6242	San Diego	San Jose	Eriq	0.4523	542	249	741 N	Fabrice	216
+4	121 m^3	0.4989	Sacramento	Riverside	Chris	-0.1151	521	908	418 N	Michael	765
+4	96 m^3	0.7241	San Jose	Los Angeles	Chris	0.2275	836	821	222 N	Tony	920
+0	1019 m^3	0.5441	San Diego	Stockton	Eriq	0.2463	610	265	857 N	Fabrice	239
+3	844 m^3	0.3699	Fremont	Chula Vista, Long Beach, Oakland, Moreno Valley	VANI	0.7254	769	459	316 N	Chris	93
+5	NULL	0.1209	MORENO VALLEY	san francisco	Sam	0.3625	99	370	615 N	Eriq	598
+4	351 m^3	0.8971	San Jose	Los Angeles	Chris	0.0164	381	877	-131 N	Michael	813
+5	434 m^3	n/a	Moreno Valley	San Francisco	Sam	0.3904	334	994	573 N	Eriq	849
+5	239 m^3	0.3904	Oakland	San Francisco	Sam	0.4366	75	796	332 N	Eriq	524
+5	362 m^3	0.4104	Moreno Valley	San Francisco	Sam	0.248	10	792	464 N	Eriq	568
+4	272 m^3	0.4481	San Bernardino	Los Angeles	Lise	-0.0935	669	554	192 N	Michael	864
+0	1109 m^3	0.3551	Sacramento	Stockton	Michael	0.2631	193	113	N/A	Reilly	166
+1	5 m^3	0.0798	Bakersfield	Santa Clarita, San Diego, Modesto	Andrew	0.6235	791	458	234 N	Inan	314
+5	409 m^3	0.1544	Oakland	San Francisco	sam	0.3874	238	648	406 N	Eriq	474
+1	-58 m^3	0.0588	Chula Vista	Long Beach, Chula Vista, San Bernardino	Andrew	0.6619	1146	741	371 N	Inan	187
+2	737 m^3	0.9053	Los Angeles	Fremont	Reilly	0.6351	365	-16	818 N	Lise	885
+0	934 m^3	0.5888	San Diego	Moreno Valley, Chula Vista	Michael	0.3932	534	7	673 N	Reilly	137
+5	658 m^3	0.188	Riverside	San Francisco	Sam	0.1364	16	948	480 N	Inan	412
+3	759 m^3	0.3405	Fremont	Oakland, Long Beach	Vani	0.9518	607	625	846 N	Chris	297
+2	532 m^3	0.8384	Los Angeles	Sacramento	Sam	0.9229	389	18	899 N	Lise	850
+5	591 m^3	0.5915	Oakland	San Francisco	Sam	0.0944	254	981	299 N	Eriq	624
+5	330 m^3	0.32	Long Beach	Moreno Valley, San Bernardino	Sam	0.2185	393	1175	439 N	Eriq	431
+1	-33 m^3	0.0905	Long Beach	Modesto	Andrew	0.745	868	534	360 N	Inan	599
+4	427 m^3	0.8612	San Diego	San Francisco	Lise	0.1639	642	663	126 N	Michael	956
+4	55 m^3	0.7407	San Jose	Los Angeles	Lise	-0.0064	733	719	35 N	Michael	839
+3	559 m^3	0.1533	Fremont	Long Beach, San Bernardino, Moreno Valley, Oakland	Vani	0.868	742	460	770 N	Chris	319
+4	268 m^3	0.8288	San Jose	Los Angeles	Chris	0.2002	470	700	194 N	Michael	1041
+3	662 m^3	0.2856	Irvine	San Bernardino	Vani	0.972	703	381	622 N	Chris	86
+5	370 m^3	0.411	Moreno Valley	SAN FRANCISCO	Sam	0.4184	394	754	379 N	Eriq	620
+1	-15 m^3	-0.1393	Irvine	San Diego	Vani	0.7852	1025	541	181 N	iNAN	750
+2	781 m^3	0.8504	Modesto	Santa Ana, Irvine, Sacramento	Fabrice	0.208	178	-27	1011 N	Lise	1101
+1	29 m^3	0.0575	None	Anaheim, Bakersfield, Santa Clarita	Andrew	0.6292	803	546	312 N	Lise	544
+0	1003 m^3	0.7159	Anaheim	sTOCKTON, fRESNO	Vani	0.6016	310	59	676 N	Reilly	412
+4	41 m^3	0.7831	San Bernardino	Los Angeles	Tony	0.1675	754	632	161 N	Michael	797
+4	351 m^3	0.5628	San Bernardino	San Francisco	Chris	0.256	776	739	56 N	Tony	838
+1	6 m^3	-0.0977	San Diego	San Diego, Anaheim, Modesto, Bakersfield	Fabrice	0.8647	1090	637	361 N	Inan	281
+0	814 m^3	0.5163	Stockton	Fresno	Michael	0.2753	613	208	859 N	Vani	62
+4	286 m^3	0.807	San Bernardino	Riverside	Chris	0.198	542	803	135 N	Michael	1056
+2	658 m^3	0.8551	Santa Ana	Irvine	Fabrice	0.5467	209	101	772 N	Lise	850
+1	-42 m^3	0.0719	Santa Clarita	Santa Clarita, Bakersfield, Anaheim, Modesto	Andrew	0.7857	695	407	282 N	Inan	404
+3	583 m^3	0.3337	Irvine	sAN jOSE, fRESNO	Vani	0.87	807	316	287 N	Chris	-8
+2	894 m^3	0.9472	Santa Clarita	Sacramento	Fabrice	0.4987	427	-207	887 N	Lise	676
+5	686 m^3	0.4654	San Francisco	Los Angeles	Sam	0.2663	238	1058	522 N	eriq	422
+2	997 m^3	0.6379	Santa Ana	Santa Ana, Irvine	Fabrice	0.3953	-155	217	748 N	Eriq	879
+0	982 m^3	0.4583	Anaheim	Fresno, San Jose	Eriq	0.559	328	417	869 N	Andrew	224
+1	38 m^3	0.1294	NULL	Santa Clarita	n/a	0.79	838	526	386 N	Inan	199
+1	-8 m^3	0.0232	Long Beach	Santa Clarita, San Diego, Anaheim, Modesto	Inan	1.0175	1051	529	184 N	Sam	555
+2	799 m^3	0.6665	Santa Ana	Fremont	Reilly	0.556	240	39	774 N	Lise	781
+5	538 m^3	0.5032	Riverside	San Francisco	Sam	0.3212	59	901	547 N	Eriq	468
+2	901 m^3	0.9617	Modesto	Sacramento	Fabrice	0.5819	261	182	711 N	Lise	850
+3	917 m^3	0.4417	Fremont	Riverside	Vani	0.9803	n/a	550	376 N	Chris	167
+3	726 m^3	0.2114	Irvine	Anaheim, Modesto	Vani	0.9149	767	482	594 N	Chris	297
+2	943 m^3	0.7688	Los Angeles	Fremont, Sacramento	Fabrice	0.6392	443	259	746 N	lise	1003
+1	209 m^3	-0.0501	None	Anaheim, Bakersfield	Inan	0.7256	1048	472	240 N	Sam	158
+4	317 m^3	0.876	Fresno	Los Angeles	Lise	0.1902	430	686	162 N	tONY	827
+0	1412 m^3	0.7691	stockton	Fresno, Stockton	Eriq	0.427	547	96	859 N	Lise	244
+5	338 m^3	0.4631	Oakland	San Francisco	Sam	0.2021	483	829	406 N	Eriq	705
+3	451 m^3	0.2402	Irvine	San Bernardino	Vani	1.0102	893	533	None	Chris	221
+3	607 m^3	0.1447	Fremont	Oakland	Vani	1.1277	856	336	650 N	Chris	74
+4	278 m^3	0.7268	Fresno	Los Angeles	Lise	0.2901	469	736	-143 N	Michael	770
+4	369 m^3	0.7398	San Jose	Riverside	Lise	0.0197	576	828	202 N	Tony	896
+3	573 m^3	0.2898	Irvine	Chula Vista, Long Beach, Moreno Valley, San Bernardino	Vani	0.9472	519	428	317 N	Chris	166
+5	629 m^3	0.3795	Los Angeles	San Francisco	Sam	0.1569	-17	771	484 N	Eriq	606
+3	914 m^3	0.2752	Fremont	N/A	Vani	0.8656	827	418	456 N	Chris	149
+3	476 m^3	0.2814	Irvine	Long Beach, Oakland, San Bernardino, Moreno Valley	Vani	0.9566	792	490	450 N	Chris	302
+2	887 m^3	0.8546	Riverside	Irvine	Fabrice	0.1812	181	120	949 N	Lise	818
+4	161 m^3	0.7495	Fresno	lOS aNGELES	Chris	0.2266	733	669	36 N	Tony	788
+4	330 m^3	0.8274	San Jose	Los Angeles	Chris	0.1531	705	879	184 N	Michael	748
+4	245 m^3	0.6835	San Jose	Fresno, San Jose	Lise		567	755	82 N	Michael	967
+5	343 m^3	0.3159	San Francisco	San Francisco	Sam	0.4378	-109	1334	337 N	Eriq	521
+2	685 m^3	0.8506	Modesto	Fremont, Santa Ana, Irvine	Fabrice	0.7902	-17	35	489 N	Lise	588
+5	331 m^3	0.4665	Moreno Valley	San Francisco	sam	0.3029	59	871	457 N	Eriq	485
+3	788 m^3	0.3622	Fremont	Chula Vista	Vani	0.9248	905	318	614 N	Chris	135
+0	634 m^3	0.4884	San Bernardino	Stockton, Fresno	Eriq	0.3547	836	62	612 N	Fabrice	348
+5	363 m^3	0.4573	Riverside	San Francisco	Sam	0.3275	463	851	215 N	Eriq	818
+0	921 m^3	0.7457	San Diego	Fresno	Lise	N/A	298	182	1004 N	Fabrice	434
+3	716 m^3	0.528	Irvine	Long Beach, Chula Vista	vani	0.8261	896	410	404 N	Chris	88
+0	997 m^3	0.5689	sacramento	Fresno, San Jose	Michael	0.5244	528	303	1061 N	Fabrice	20
+4	595 m^3	0.9266	Modesto	Riverside	Inan	0.3396	501	747	60 N	Michael	737
+0	949 m^3	0.5612	San Diego	Stockton, Fresno	Michael	0.4041	823	147	872 N	Reilly	203
+0	1274 m^3	0.6262	Sacramento	Fresno	Michael	0.466	433	412	765 N	Fabrice	24
+0	1140 m^3	0.6786	Sacramento	Stockton	Michael	0.3808	513	415	784 N	Andrew	19
+4	139 m^3	0.8929	Fresno	Los Angeles	Lise	0.162	636	759	290 N	Tony	907
+0	723 m^3	0.4999	sAN dIEGO	SAN JOSE, FRESNO	Michael	0.3041	724	79	758 N	Fabrice	186
+4	225 m^3	0.7825	San Jose	Riverside	Tony	0.0534	621	735	-25 N	Tony	986
+1	197 m^3	-0.0765	Chula Vista	N/A	Andrew	0.8817	1118	None	391 N	Inan	358
+1	172 m^3	-0.0791	Long Beach	San Francisco	Inan	1.0185	902	515	267 N	Sam	464
+2	1022 m^3	0.9234	Santa Ana	Irvine, Sacramento, Santa Ana	Reilly	0.6744	236	-122	857 N	Chris	985
+1	-79 m^3	-0.1213	Chula Vista	Bakersfield, Anaheim, Santa Clarita, San Diego	Inan	0.6257	1319	728	341 N	Sam	384
+0	1074 m^3	0.6075	Stockton	Fresno	Michael	0.3801	129	191	908 N	Fabrice	397
+4	225 m^3	0.628	San Jose	Los Angeles	Tony	-0.0264	368	700	48 N	Tony	880
+3	490 m^3	0.4015	Fremont	Fremont	Vani	0.9154	712	359	665 N	Chris	66
+5	499 m^3	0.4774	Riverside	San Francisco	Sam	0.6676	522	914	463 N	Eriq	711
+4	298 m^3	0.7565	San Jose	Riverside	Lise	0.018	482	608	204 N	Michael	1086
+2	728 m^3	0.9597	Los Angeles	Riverside	Fabrice	0.6635	159	61	690 N	Inan	950
+1	-161 m^3	-0.0821	Bakersfield	Santa Clarita, Modesto	Andrew	0.546	847	736	510 N	Inan	289
+4	-13 m^3	0.7435	San Bernardino	riverside	Lise	0.2526	288	740	114 N	Tony	822
+0	803 m^3	0.5616	San Bernardino	San Jose	Eriq	0.4452	528	298	367 N	Andrew	268
+5	355 m^3	0.3786	San Francisco	San Francisco	Sam	0.5868	306	939	342 N	Eriq	628
+4	122 m^3	0.7342	Fresno	Riverside	Tony	0.2333	357	752	100 N	Tony	839
+2	770 m^3	0.8874	Los Angeles	Santa Ana, Fremont, Sacramento	Fabrice	0.5666	263	155	701 N	Lise	977
+5	465 m^3	0.3762	Oakland	San Francisco	Sam	0.4447	246	1152	366 N	Eriq	570
+3	801 m^3	0.433	Fremont	Long Beach, San Bernardino, Moreno Valley	Vani	1.0415	966	363	422 N	Chris	279
+3	892 m^3	0.2197	Irvine	Long Beach, Oakland, Chula Vista	Vani	1.0427	931	393	322 N	Chris	294
+1	243 m^3	-0.0055	Oakland	Irvine	Andrew	0.7685	758	722	328 N	Sam	353
+5	515 m^3	0.5108	Moreno Valley	San Francisco	Reilly	0.1648	-61	926	614 N	Eriq	713
+5	384 m^3	0.2788	San Francisco	San Francisco	Chris	0.3479	-115	946	546 N	Eriq	641
+1	25 m^3	-0.1038	Fresno	Anaheim	andrew	1.0466	694	561	303 N	Inan	443
+5	397 m^3	0.355	Riverside	San Francisco	Sam	0.4485	-90	890	367 N	Eriq	643
+5	383 m^3	0.3907	San Francisco	San Francisco	Sam	0.7043	226	779	306 N	Eriq	656
+4	466 m^3	0.7395	San Jose	Los Angeles	Lise	0.1525	200	897	179 N	tony	950
+4	92 m^3	0.7636	San Bernardino	San Diego, Bakersfield, Modesto, Santa Clarita	Chris	0.1856	531	980	-12 N	Michael	823
+2	786 m^3	0.878	Santa Ana	Irvine	reilly	0.3832	362	73	970 N	Lise	980
+5	582 m^3	0.3255	Riverside	San Francisco	sam	0.6223	173	960	506 N	Eriq	592
+5	655 m^3	0.5278	San Francisco	San Francisco	Inan	0.226	102	1030	267 N	Eriq	505
+5	458 m^3	0.2758	MORENO VALLEY	San Francisco	Sam	0.7088	151	765	309 N	Eriq	536
+5	426 m^3	0.2721	Oakland	San Francisco	Sam	0.4794	83	960	485 N	Eriq	532
+0	1087 m^3	0.5438	Sacramento	San Jose	Eriq	0.562	406	415	817 N	Fabrice	335
+4	298 m^3	0.836	San Bernardino	Los Angeles	Sam	0.0939	616	949	8 N	Michael	680
+5	557 m^3	0.4267	rIVERSIDE	San Francisco	Sam	0.6297	132	685	319 N	Eriq	776
+4	92 m^3	0.5516	San Bernardino	Los Angeles	Tony	-0.0659	298	853	-205 N	Tony	986
+5	158 m^3	0.372	San Jose	San Francisco	Sam	0.2869	-333	899	413 N	Eriq	477
+3	569 m^3	0.1482	Fremont	San Bernardino	Vani	0.7837	693	467	429 N	Chris	-8
+4	58 m^3	0.7415	Fresno	Riverside	Lise	0.2416	549	608	95 N	Tony	696
+1	43 m^3	-0.2381	Long Beach	Bakersfield	Andrew	0.7285	786	675	177 N	Sam	361
+2	787 m^3	0.9301	Los Angeles	Stockton	Reilly	0.6671	317	167	880 N	Lise	1025
+4	67 m^3	0.9414	San Jose	Los Angeles	Lise	0.4061	647	831	-15 N	Tony	804
+4	261 m^3	0.7094	San Jose	Los Angeles	Tony	0.1628	656	1052	313 N	Michael	774
+5	520 m^3	0.3527	Oakland	San Francisco	Sam	0.6379	134	867	357 N	Eriq	547
+3	493 m^3	0.5288	Fremont	San Bernardino, Long Beach	Vani	1.0187	697	200	524 N	Chris	252
+4	138 m^3	0.7985	San Jose	Riverside	Chris	0.089	311	585	224 N	Tony	863
+4	119 m^3	0.769	San Jose	Los Angeles	Lise	-0.0423	None	1036	-48 N	Michael	803
+4	206 m^3	0.7403	Fresno	Riverside	Lise	0.092	213	627	425 N	Michael	906
+5	503 m^3	0.0638	Fremont	N/A	Sam	0.4996	-330	1092	541 N	Vani	569
+1	-39 m^3	0.0357	Long Beach	Santa Ana	Inan	0.8711	893	527	6 N	Inan	341
+4	141 m^3	0.7789	Fresno	Los Angeles	cHRIS	0.0372	359	825	140 N	Tony	899
+0	999 m^3	0.5255	San Diego	Fresno	Eriq	0.4343	437	143	451 N	Fabrice	139
+0	1023 m^3	0.7411	Anaheim	Fresno	Eriq	0.5863	366	271	1005 N	Andrew	235
+3	687 m^3	0.3889	Fremont	Oakland, Long Beach	Vani	0.7695	1031	405	527 N	Chris	323
+4	141 m^3	0.7265	Fresno	Riverside	Tony	0.0174	374	786	315 N	Michael	952
+2	724 m^3	0.8778	Santa Clarita	Santa Ana, Sacramento, Fremont	fABRICE	0.6898	463	-17	893 N	Lise	914
+4	108 m^3	0.6054	San Bernardino	Riverside	Chris	0.1388	417	610	49 N	Tony	879
+4	216 m^3	0.9787	Fresno	Los Angeles	Chris	0.147	652	734	90 N	Michael	671
+2	788 m^3	0.758	Santa Ana	Irvine, Sacramento	Reilly	0.4392	-4	-63	n/a	Lise	804
+2	767 m^3	0.7902	Santa Ana	N/A	Reilly	0.7319	229	113	879 N	Lise	885
+4	268 m^3	0.8452	Fresno	Irvine, Sacramento	Tony	0.1055	573	518	130 N	Michael	834
+3	660 m^3	0.2519	Irvine	Stockton	Vani	1.0143	872	218	707 N	Chris	390
+3	492 m^3	0.448	Fremont	Santa Clarita, Modesto, San Diego, Anaheim	Lise	0.9262	624	149	515 N	Chris	180
+3	626 m^3	0.1782	Fremont	Chula Vista, San Bernardino, Long Beach, Oakland	Vani	0.9536	513	489	516 N	Chris	39
+1	42 m^3	0.0971	Bakersfield	Modesto, Bakersfield	Andrew	0.7297	679	670	453 N	Inan	356
+2	911 m^3	0.8142	Santa Clarita	Irvine	Fabrice	0.8288	127	-112	858 N	Lise	1059
